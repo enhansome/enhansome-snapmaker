@@ -1227,7 +1227,7 @@
                 "last_commit": "2026-08-01T19:20:08Z",
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 117
+                "stars": 118
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)"
             },
@@ -1254,7 +1254,7 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:44:01Z",
+                "last_commit": "2026-08-19T15:20:53Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
                 "stars": 2728
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:55:28.463Z",
+    "last_updated": "2026-08-19T16:51:56.781Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

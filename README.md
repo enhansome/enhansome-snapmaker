@@ -483,7 +483,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-18
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-19
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -1772,7 +1772,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-18
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-19
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -4073,7 +4073,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-18
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-19
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6090,7 +6090,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-18
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-08-19
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6102,7 +6102,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
+#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 117 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
 
 > Apply image to the surface of your print!
 >
@@ -6140,7 +6140,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,728 | 🐛 162 | 🌐 TypeScript | 📅 2026-08-18
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,728 | 🐛 162 | 🌐 TypeScript | 📅 2026-08-19
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6164,7 +6164,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.](https://github.com/rtwfroody/ditherforge) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2026-07-30
+#### [DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.](https://github.com/rtwfroody/ditherforge) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-07-30
 
 > <img width="1357" height="823" alt="Image" src="https://github.com/user-attachments/assets/f0b51249-5a3a-45ae-869d-86823ea3c998" />
 
@@ -6265,7 +6265,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 145 | 🐛 2 | 🌐 Python | 📅 2026-08-07
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 145 | 🐛 2 | 🌐 Python | 📅 2026-08-19
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 81 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.

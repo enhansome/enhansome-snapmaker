@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-18T07:33:31Z",
+                "last_commit": "2026-08-19T11:15:46Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-18T07:33:31Z",
+                "last_commit": "2026-08-19T11:15:46Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-18T07:33:31Z",
+                "last_commit": "2026-08-19T11:15:46Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-18T07:33:31Z",
+                "last_commit": "2026-08-19T11:15:46Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1227,7 +1227,7 @@
                 "last_commit": "2026-08-01T19:20:08Z",
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 116
+                "stars": 117
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)"
             },
@@ -1254,7 +1254,7 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T19:56:58Z",
+                "last_commit": "2026-08-19T09:44:01Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
                 "stars": 2728
@@ -1272,7 +1272,7 @@
                 "last_commit": "2026-07-30T01:23:56Z",
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 27
+                "stars": 28
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers."
             },
@@ -1299,7 +1299,7 @@
                 "archived": false,
                 "id": 1193438419,
                 "language": "Python",
-                "last_commit": "2026-08-07T11:30:33Z",
+                "last_commit": "2026-08-19T11:39:36Z",
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 145
@@ -1451,8 +1451,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:08:47.476Z",
+    "last_updated": "2026-08-19T11:55:28.463Z",
     "original_repository": "shurushetr/awesome-snapmaker",
+    "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",
     "enhanced_repository": "enhansome/enhansome-snapmaker",
     "enhanced_repository_description": null,

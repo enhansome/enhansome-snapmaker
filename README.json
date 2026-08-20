@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:15:46Z",
+                "last_commit": "2026-08-20T16:37:11Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -135,7 +135,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1608
+                "stars": 1609
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             }
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:15:46Z",
+                "last_commit": "2026-08-20T16:37:11Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -327,7 +327,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1608
+                "stars": 1609
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             }
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:15:46Z",
+                "last_commit": "2026-08-20T16:37:11Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -937,7 +937,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1608
+                "stars": 1609
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             },
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:15:46Z",
+                "last_commit": "2026-08-20T16:37:11Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1254,10 +1254,10 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T15:20:53Z",
+                "last_commit": "2026-08-19T20:47:45Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2728
+                "stars": 2731
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1299,10 +1299,10 @@
                 "archived": false,
                 "id": 1193438419,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:39:36Z",
+                "last_commit": "2026-08-20T08:49:53Z",
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 145
+                "stars": 147
               },
               "title": "multiACE"
             },
@@ -1317,7 +1317,7 @@
                 "last_commit": "2026-04-30T07:05:32Z",
                 "owner": "decay71",
                 "repo": "mUlt1ACE",
-                "stars": 10
+                "stars": 11
               },
               "title": "mUlt1ACE - use multiple AcePRO units with Snapmaker U1"
             },
@@ -1437,7 +1437,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1608
+                "stars": 1609
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             }
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:51:56.781Z",
+    "last_updated": "2026-08-20T16:56:19.544Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

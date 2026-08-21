@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:37:11Z",
+                "last_commit": "2026-08-21T15:00:47Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -90,7 +90,7 @@
                 "last_commit": "2025-09-07T19:03:45Z",
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367
+                "stars": 366
               },
               "title": "Calibration shapes"
             },
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:37:11Z",
+                "last_commit": "2026-08-21T15:00:47Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -297,7 +297,7 @@
                 "last_commit": "2025-09-07T19:03:45Z",
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367
+                "stars": 366
               },
               "title": "Calibration shapes"
             },
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:37:11Z",
+                "last_commit": "2026-08-21T15:00:47Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -757,7 +757,7 @@
                 "last_commit": "2025-09-07T19:03:45Z",
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367
+                "stars": 366
               },
               "title": "Calibration shapes"
             },
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:37:11Z",
+                "last_commit": "2026-08-21T15:00:47Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1254,10 +1254,10 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T20:47:45Z",
+                "last_commit": "2026-08-21T03:52:54Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2731
+                "stars": 2735
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1299,7 +1299,7 @@
                 "archived": false,
                 "id": 1193438419,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:49:53Z",
+                "last_commit": "2026-08-21T16:53:10Z",
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 147
@@ -1377,7 +1377,7 @@
                 "last_commit": "2025-09-07T19:03:45Z",
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367
+                "stars": 366
               },
               "title": "Calibration shapes"
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:56:19.544Z",
+    "last_updated": "2026-08-21T16:56:36.227Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

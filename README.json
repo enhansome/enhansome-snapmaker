@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-21T15:00:47Z",
+                "last_commit": "2026-08-22T14:05:27Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-21T15:00:47Z",
+                "last_commit": "2026-08-22T14:05:27Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-21T15:00:47Z",
+                "last_commit": "2026-08-22T14:05:27Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-21T15:00:47Z",
+                "last_commit": "2026-08-22T14:05:27Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1227,7 +1227,7 @@
                 "last_commit": "2026-08-01T19:20:08Z",
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 118
+                "stars": 119
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)"
             },
@@ -1254,10 +1254,10 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T03:52:54Z",
+                "last_commit": "2026-08-21T19:59:59Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2735
+                "stars": 2738
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1302,7 +1302,7 @@
                 "last_commit": "2026-08-21T16:53:10Z",
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 147
+                "stars": 148
               },
               "title": "multiACE"
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:56:36.227Z",
+    "last_updated": "2026-08-22T16:45:06.781Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

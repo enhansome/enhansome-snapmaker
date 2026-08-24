@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:15:16Z",
+                "last_commit": "2026-08-23T20:00:05Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:15:16Z",
+                "last_commit": "2026-08-23T20:00:05Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:15:16Z",
+                "last_commit": "2026-08-23T20:00:05Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1194,7 +1194,7 @@
                 "archived": false,
                 "id": 1252084141,
                 "language": "C++",
-                "last_commit": "2026-08-14T22:02:03Z",
+                "last_commit": "2026-08-24T07:12:06Z",
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
                 "stars": 19
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:15:16Z",
+                "last_commit": "2026-08-23T20:00:05Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1242,7 +1242,7 @@
                 "last_commit": "2026-08-13T10:45:14Z",
                 "owner": "WilliamTheMaker",
                 "repo": "BuildMyOwnBlackBox_for_Snapmaker_U1",
-                "stars": 8
+                "stars": 9
               },
               "title": "Black Box Dual PWM Fan Mod"
             },
@@ -1257,7 +1257,7 @@
                 "last_commit": "2026-08-23T16:09:36Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2740
+                "stars": 2741
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:47:17.590Z",
+    "last_updated": "2026-08-24T14:36:49.065Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

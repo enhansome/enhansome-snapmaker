@@ -6255,7 +6255,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 #### [FullSpectrum Speed Palettes](https://www.printables.com/model/1654016-fullspectrum-speed-palettes)
 
-> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 743 | 🐛 45 | 🌐 C++ | 📅 2026-08-10. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
+> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 744 | 🐛 45 | 🌐 C++ | 📅 2026-08-10. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
 >
 > The pu...
 
@@ -6684,7 +6684,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 743 | 🐛 45 | 🌐 C++ | 📅 2026-08-10
+#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 744 | 🐛 45 | 🌐 C++ | 📅 2026-08-10
 
 > <img src="images/Cards_Files/id-full-spectrum-layer-blending-with-orcaslicer-fork-12/1.jpg" alt="Mug" class="float-right" />
 > Full Spectrum is an open source slicer for FDM printers based on 

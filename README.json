@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:00:05Z",
+                "last_commit": "2026-08-24T17:01:00Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:00:05Z",
+                "last_commit": "2026-08-24T17:01:00Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:00:05Z",
+                "last_commit": "2026-08-24T17:01:00Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-23T20:00:05Z",
+                "last_commit": "2026-08-24T17:01:00Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1254,10 +1254,10 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:09:36Z",
+                "last_commit": "2026-08-24T18:11:23Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2741
+                "stars": 2743
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1302,7 +1302,7 @@
                 "last_commit": "2026-08-23T12:02:16Z",
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 149
+                "stars": 150
               },
               "title": "multiACE"
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:00:15.928Z",
+    "last_updated": "2026-08-25T06:28:40.275Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

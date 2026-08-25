@@ -38,7 +38,7 @@
                 "last_commit": "2026-08-02T15:10:16Z",
                 "owner": "macdylan",
                 "repo": "sm2uploader",
-                "stars": 64
+                "stars": 63
               },
               "title": "SM2Uploader"
             }
@@ -75,7 +75,7 @@
                 "last_commit": "2026-06-01T05:04:16Z",
                 "owner": "macdylan",
                 "repo": "SMFix",
-                "stars": 23
+                "stars": 22
               },
               "title": "Snapmaker2Slic3rPostProcessor"
             },
@@ -245,7 +245,7 @@
                 "last_commit": "2026-08-02T15:10:16Z",
                 "owner": "macdylan",
                 "repo": "sm2uploader",
-                "stars": 64
+                "stars": 63
               },
               "title": "SM2Uploader"
             }
@@ -282,7 +282,7 @@
                 "last_commit": "2026-06-01T05:04:16Z",
                 "owner": "macdylan",
                 "repo": "SMFix",
-                "stars": 23
+                "stars": 22
               },
               "title": "Snapmaker2Slic3rPostProcessor"
             },
@@ -660,7 +660,7 @@
                 "last_commit": "2026-08-02T15:10:16Z",
                 "owner": "macdylan",
                 "repo": "sm2uploader",
-                "stars": 64
+                "stars": 63
               },
               "title": "SM2Uploader"
             }
@@ -697,7 +697,7 @@
                 "last_commit": "2026-06-01T05:04:16Z",
                 "owner": "macdylan",
                 "repo": "SMFix",
-                "stars": 23
+                "stars": 22
               },
               "title": "Snapmaker2Slic3rPostProcessor"
             },
@@ -1227,7 +1227,7 @@
                 "last_commit": "2026-08-01T19:20:08Z",
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 121
+                "stars": 122
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)"
             },
@@ -1254,7 +1254,7 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:11:23Z",
+                "last_commit": "2026-08-25T15:23:56Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
                 "stars": 2743
@@ -1299,7 +1299,7 @@
                 "archived": false,
                 "id": 1193438419,
                 "language": "Python",
-                "last_commit": "2026-08-23T12:02:16Z",
+                "last_commit": "2026-08-25T15:56:04Z",
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 150
@@ -1422,7 +1422,7 @@
                 "last_commit": "2026-08-10T04:18:27Z",
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 744
+                "stars": 745
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork"
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:40.275Z",
+    "last_updated": "2026-08-25T17:00:49.910Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

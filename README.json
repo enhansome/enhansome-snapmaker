@@ -1182,7 +1182,7 @@
                 "last_commit": "2026-08-08T08:12:23Z",
                 "owner": "ezeitoun",
                 "repo": "SnapCon",
-                "stars": 11
+                "stars": 12
               },
               "title": "SnapCon - U1 Print Farm Management Solution"
             },
@@ -1194,10 +1194,10 @@
                 "archived": false,
                 "id": 1252084141,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:12:06Z",
+                "last_commit": "2026-08-25T20:19:19Z",
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 19
+                "stars": 21
               },
               "title": "FOrcaSlicer — Flexible OrcaSlicer"
             },
@@ -1254,7 +1254,7 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:23:56Z",
+                "last_commit": "2026-08-26T16:16:46Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
                 "stars": 2743
@@ -1299,7 +1299,7 @@
                 "archived": false,
                 "id": 1193438419,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:56:04Z",
+                "last_commit": "2026-08-26T15:14:44Z",
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 150
@@ -1422,7 +1422,7 @@
                 "last_commit": "2026-08-10T04:18:27Z",
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 745
+                "stars": 746
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork"
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:00:49.910Z",
+    "last_updated": "2026-08-26T18:08:35.060Z",
     "original_repository": "shurushetr/awesome-snapmaker",
     "original_repository_id": 639871839,
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",

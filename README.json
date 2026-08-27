@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:01:00Z",
+                "last_commit": "2026-08-27T09:06:37Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -135,7 +135,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1609
+                "stars": 1610
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             }
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:01:00Z",
+                "last_commit": "2026-08-27T09:06:37Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -327,7 +327,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1609
+                "stars": 1610
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             }
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:01:00Z",
+                "last_commit": "2026-08-27T09:06:37Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -937,7 +937,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1609
+                "stars": 1610
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             },
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-24T17:01:00Z",
+                "last_commit": "2026-08-27T09:06:37Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1254,10 +1254,10 @@
                 "archived": false,
                 "id": 622237147,
                 "language": "Python",
-                "last_commit": "2026-08-26T16:16:46Z",
+                "last_commit": "2026-08-27T05:51:32Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2743
+                "stars": 2744
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1299,7 +1299,7 @@
                 "archived": false,
                 "id": 1193438419,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:14:44Z",
+                "last_commit": "2026-08-27T07:18:42Z",
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 150
@@ -1422,7 +1422,7 @@
                 "last_commit": "2026-08-10T04:18:27Z",
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 746
+                "stars": 747
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork"
             },
@@ -1437,7 +1437,7 @@
                 "last_commit": "2025-01-01T12:36:38Z",
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1609
+                "stars": 1610
               },
               "title": "DIY Fumes Filtration system - NeverMore"
             }
@@ -1451,9 +1451,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:08:35.060Z",
-    "original_repository": "shurushetr/awesome-snapmaker",
-    "original_repository_id": 639871839,
+    "last_updated": "2026-08-27T12:05:48.859Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 639871839,
+      "language": "B (Formal Method)",
+      "last_commit": "2026-08-03T14:09:41Z",
+      "owner": "shurushetr",
+      "repo": "awesome-snapmaker",
+      "stars": 157
+    },
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",
     "enhanced_repository": "enhansome/enhansome-snapmaker",
     "enhanced_repository_description": null,

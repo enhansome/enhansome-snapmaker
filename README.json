@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:06:37Z",
+                "last_commit": "2026-08-27T21:35:22Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:06:37Z",
+                "last_commit": "2026-08-27T21:35:22Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -679,7 +679,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:06:37Z",
+                "last_commit": "2026-08-27T21:35:22Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1209,7 +1209,7 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:06:37Z",
+                "last_commit": "2026-08-27T21:35:22Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
@@ -1257,7 +1257,7 @@
                 "last_commit": "2026-08-27T05:51:32Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2744
+                "stars": 2745
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
             },
@@ -1302,7 +1302,7 @@
                 "last_commit": "2026-08-27T07:18:42Z",
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 150
+                "stars": 151
               },
               "title": "multiACE"
             },
@@ -1451,7 +1451,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:48.859Z",
+    "last_updated": "2026-08-28T00:59:56.417Z",
     "original_repository_info": {
       "archived": false,
       "id": 639871839,

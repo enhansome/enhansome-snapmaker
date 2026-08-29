@@ -18,7 +18,8 @@
                 "repo": "snapremote-server",
                 "stars": 19
               },
-              "title": "SnapRemote"
+              "title": "SnapRemote",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "repo": "sm2uploader",
                 "stars": 63
               },
-              "title": "SM2Uploader"
+              "title": "SM2Uploader",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -57,12 +59,13 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:35:22Z",
+                "last_commit": "2026-08-28T19:38:50Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
               },
-              "title": "snaporca-cad - Snapmaker Orca with CAD"
+              "title": "snaporca-cad - Snapmaker Orca with CAD",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -77,7 +80,8 @@
                 "repo": "SMFix",
                 "stars": 22
               },
-              "title": "Snapmaker2Slic3rPostProcessor"
+              "title": "Snapmaker2Slic3rPostProcessor",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -92,7 +96,8 @@
                 "repo": "Calibration-Shapes",
                 "stars": 366
               },
-              "title": "Calibration shapes"
+              "title": "Calibration shapes",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -107,7 +112,8 @@
                 "repo": "terrain-to-3d",
                 "stars": 62
               },
-              "title": "Terrain To STL"
+              "title": "Terrain To STL",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -122,7 +128,8 @@
                 "repo": "snapremote-server",
                 "stars": 19
               },
-              "title": "SnapRemote"
+              "title": "SnapRemote",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -137,7 +144,8 @@
                 "repo": "Nevermore_Micro",
                 "stars": 1610
               },
-              "title": "DIY Fumes Filtration system - NeverMore"
+              "title": "DIY Fumes Filtration system - NeverMore",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -159,7 +167,8 @@
                 "repo": "LaserCalibrationTool",
                 "stars": 3
               },
-              "title": "Laser Calibration Tool"
+              "title": "Laser Calibration Tool",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -174,7 +183,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Laser 40w Fan"
+              "title": "Laser 40w Fan",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -189,7 +199,8 @@
                 "repo": "snapremote-server",
                 "stars": 19
               },
-              "title": "SnapRemote"
+              "title": "SnapRemote",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -204,7 +215,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Guide: Luban - how to use layers"
+              "title": "Guide: Luban - how to use layers",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -219,7 +231,8 @@
                 "repo": "fr0zen-system-laser",
                 "stars": 21
               },
-              "title": "Snowflakes generator"
+              "title": "Snowflakes generator",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -247,7 +260,8 @@
                 "repo": "sm2uploader",
                 "stars": 63
               },
-              "title": "SM2Uploader"
+              "title": "SM2Uploader",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -264,12 +278,13 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:35:22Z",
+                "last_commit": "2026-08-28T19:38:50Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
               },
-              "title": "snaporca-cad - Snapmaker Orca with CAD"
+              "title": "snaporca-cad - Snapmaker Orca with CAD",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -284,7 +299,8 @@
                 "repo": "SMFix",
                 "stars": 22
               },
-              "title": "Snapmaker2Slic3rPostProcessor"
+              "title": "Snapmaker2Slic3rPostProcessor",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -299,7 +315,8 @@
                 "repo": "Calibration-Shapes",
                 "stars": 366
               },
-              "title": "Calibration shapes"
+              "title": "Calibration shapes",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -314,7 +331,8 @@
                 "repo": "terrain-to-3d",
                 "stars": 62
               },
-              "title": "Terrain To STL"
+              "title": "Terrain To STL",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -329,7 +347,8 @@
                 "repo": "Nevermore_Micro",
                 "stars": 1610
               },
-              "title": "DIY Fumes Filtration system - NeverMore"
+              "title": "DIY Fumes Filtration system - NeverMore",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -357,7 +376,8 @@
                 "repo": "LaserCalibrationTool",
                 "stars": 3
               },
-              "title": "Laser Calibration Tool"
+              "title": "Laser Calibration Tool",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -372,7 +392,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Laser 40w Fan"
+              "title": "Laser 40w Fan",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -387,7 +408,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Guide: Luban - how to use layers"
+              "title": "Guide: Luban - how to use layers",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -402,7 +424,8 @@
                 "repo": "fr0zen-system-laser",
                 "stars": 21
               },
-              "title": "Snowflakes generator"
+              "title": "Snowflakes generator",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -430,7 +453,8 @@
                 "repo": "snapmakerstiffy",
                 "stars": 18
               },
-              "title": "Snapmaker Stiffy Kit by CTZcnc"
+              "title": "Snapmaker Stiffy Kit by CTZcnc",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -445,7 +469,8 @@
                 "repo": "snapmaker-2.0",
                 "stars": 58
               },
-              "title": "Fusion360 Post Processor"
+              "title": "Fusion360 Post Processor",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -460,7 +485,8 @@
                 "repo": "Snapmaker2Postprocessor",
                 "stars": 13
               },
-              "title": "Snapmaker2Postprocessor for FreeCAD"
+              "title": "Snapmaker2Postprocessor for FreeCAD",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -475,7 +501,8 @@
                 "repo": "snapmaker_cnc_post_process",
                 "stars": 51
               },
-              "title": "CNC postprocessors for Snapmaker"
+              "title": "CNC postprocessors for Snapmaker",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -490,7 +517,8 @@
                 "repo": "3D-touchprobe-controller",
                 "stars": 5
               },
-              "title": "3D Touchprobe controller for Snapmaker 2.0"
+              "title": "3D Touchprobe controller for Snapmaker 2.0",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -505,7 +533,8 @@
                 "repo": "Snapmaker",
                 "stars": 8
               },
-              "title": "Snapmaker Command Line Tool (CLI)"
+              "title": "Snapmaker Command Line Tool (CLI)",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -520,7 +549,8 @@
                 "repo": "snapmaker-gamepad-control",
                 "stars": 2
               },
-              "title": "Gamepad Controls for Snapmaker"
+              "title": "Gamepad Controls for Snapmaker",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -535,7 +565,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 stock pictures"
+              "title": "Snapmaker 2.0 stock pictures",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -550,7 +581,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 Model By Stefix"
+              "title": "Snapmaker 2.0 A350 Model By Stefix",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -565,7 +597,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues"
+              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -580,7 +613,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 platform drawing"
+              "title": "Snapmaker 2.0 A350 platform drawing",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -595,7 +629,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Model of the 200w CNC Shell"
+              "title": "Model of the 200w CNC Shell",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -610,7 +645,8 @@
                 "repo": "snapremote-server",
                 "stars": 19
               },
-              "title": "SnapRemote"
+              "title": "SnapRemote",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -625,7 +661,8 @@
                 "repo": "Snapmaker_2_PCB_Milling_Process",
                 "stars": 13
               },
-              "title": "PCB milling process"
+              "title": "PCB milling process",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -640,7 +677,8 @@
                 "repo": "SnapmakerUpdate",
                 "stars": 10
               },
-              "title": "Snapmaker2 update bundle tools"
+              "title": "Snapmaker2 update bundle tools",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -662,7 +700,8 @@
                 "repo": "sm2uploader",
                 "stars": 63
               },
-              "title": "SM2Uploader"
+              "title": "SM2Uploader",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -679,12 +718,13 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:35:22Z",
+                "last_commit": "2026-08-28T19:38:50Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
               },
-              "title": "snaporca-cad - Snapmaker Orca with CAD"
+              "title": "snaporca-cad - Snapmaker Orca with CAD",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -699,7 +739,8 @@
                 "repo": "SMFix",
                 "stars": 22
               },
-              "title": "Snapmaker2Slic3rPostProcessor"
+              "title": "Snapmaker2Slic3rPostProcessor",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -714,7 +755,8 @@
                 "repo": "sm2pspp",
                 "stars": 6
               },
-              "title": "A Snapmaker 2.0 PrusaSlicer Post-Processor to create compatible files for the Snapmaker terminal."
+              "title": "A Snapmaker 2.0 PrusaSlicer Post-Processor to create compatible files for the Snapmaker terminal.",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -729,7 +771,8 @@
                 "repo": "Snapmaker",
                 "stars": 8
               },
-              "title": "Snapmaker Command Line Tool (CLI)"
+              "title": "Snapmaker Command Line Tool (CLI)",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -744,7 +787,8 @@
                 "repo": "snapmaker-gamepad-control",
                 "stars": 2
               },
-              "title": "Gamepad Controls for Snapmaker"
+              "title": "Gamepad Controls for Snapmaker",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -759,7 +803,8 @@
                 "repo": "Calibration-Shapes",
                 "stars": 366
               },
-              "title": "Calibration shapes"
+              "title": "Calibration shapes",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -774,7 +819,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 stock pictures"
+              "title": "Snapmaker 2.0 stock pictures",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -789,7 +835,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 Model By Stefix"
+              "title": "Snapmaker 2.0 A350 Model By Stefix",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -804,7 +851,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues"
+              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -819,7 +867,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 platform drawing"
+              "title": "Snapmaker 2.0 A350 platform drawing",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -834,7 +883,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Model of the Dual Extruder Shell"
+              "title": "Model of the Dual Extruder Shell",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -849,7 +899,8 @@
                 "repo": "terrain-to-3d",
                 "stars": 62
               },
-              "title": "Terrain To STL"
+              "title": "Terrain To STL",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -864,7 +915,8 @@
                 "repo": "snapremote-server",
                 "stars": 19
               },
-              "title": "SnapRemote"
+              "title": "SnapRemote",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -879,7 +931,8 @@
                 "repo": "3DChameleon_Snapmaker_2.0",
                 "stars": 4
               },
-              "title": "3D Chameleon for multicolor prints with Snapmaker 2.0 and single extruder"
+              "title": "3D Chameleon for multicolor prints with Snapmaker 2.0 and single extruder",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -894,7 +947,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "E-Step calibration"
+              "title": "E-Step calibration",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -909,7 +963,8 @@
                 "repo": "SnapmakerUpdate",
                 "stars": 10
               },
-              "title": "Snapmaker2 update bundle tools"
+              "title": "Snapmaker2 update bundle tools",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -924,7 +979,8 @@
                 "repo": "Snapmaker2-Controller",
                 "stars": 0
               },
-              "title": "Use Dual Extruder to autolevel on any surface"
+              "title": "Use Dual Extruder to autolevel on any surface",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -939,7 +995,8 @@
                 "repo": "Nevermore_Micro",
                 "stars": 1610
               },
-              "title": "DIY Fumes Filtration system - NeverMore"
+              "title": "DIY Fumes Filtration system - NeverMore",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -954,7 +1011,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Glass bed leveling probe - FiFix Mod for SM2.0"
+              "title": "Glass bed leveling probe - FiFix Mod for SM2.0",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -976,7 +1034,8 @@
                 "repo": "Snapmaker-Laser-Test-Grid",
                 "stars": 22
               },
-              "title": "Laser Test Grid Generator"
+              "title": "Laser Test Grid Generator",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -991,7 +1050,8 @@
                 "repo": "LaserCalibrationTool",
                 "stars": 3
               },
-              "title": "Laser Calibration Tool"
+              "title": "Laser Calibration Tool",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1006,7 +1066,8 @@
                 "repo": "Snapmaker",
                 "stars": 8
               },
-              "title": "Snapmaker Command Line Tool (CLI)"
+              "title": "Snapmaker Command Line Tool (CLI)",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1021,7 +1082,8 @@
                 "repo": "snapmaker-gamepad-control",
                 "stars": 2
               },
-              "title": "Gamepad Controls for Snapmaker"
+              "title": "Gamepad Controls for Snapmaker",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1036,7 +1098,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 stock pictures"
+              "title": "Snapmaker 2.0 stock pictures",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1051,7 +1114,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Laser 40w Fan"
+              "title": "Laser 40w Fan",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1066,7 +1130,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 Model By Stefix"
+              "title": "Snapmaker 2.0 A350 Model By Stefix",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1081,7 +1146,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues"
+              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1096,7 +1162,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Snapmaker 2.0 A350 platform drawing"
+              "title": "Snapmaker 2.0 A350 platform drawing",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1111,7 +1178,8 @@
                 "repo": "snapremote-server",
                 "stars": 19
               },
-              "title": "SnapRemote"
+              "title": "SnapRemote",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1126,7 +1194,8 @@
                 "repo": "awesome-snapmaker",
                 "stars": 157
               },
-              "title": "Guide: Luban - how to use layers"
+              "title": "Guide: Luban - how to use layers",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1141,7 +1210,8 @@
                 "repo": "fr0zen-system-laser",
                 "stars": 21
               },
-              "title": "Snowflakes generator"
+              "title": "Snowflakes generator",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1156,7 +1226,8 @@
                 "repo": "SnapmakerUpdate",
                 "stars": 10
               },
-              "title": "Snapmaker2 update bundle tools"
+              "title": "Snapmaker2 update bundle tools",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -1184,7 +1255,8 @@
                 "repo": "SnapCon",
                 "stars": 12
               },
-              "title": "SnapCon - U1 Print Farm Management Solution"
+              "title": "SnapCon - U1 Print Farm Management Solution",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1199,7 +1271,8 @@
                 "repo": "FOrcaSlicer",
                 "stars": 21
               },
-              "title": "FOrcaSlicer — Flexible OrcaSlicer"
+              "title": "FOrcaSlicer — Flexible OrcaSlicer",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1209,12 +1282,13 @@
                 "archived": false,
                 "id": 1261190178,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:35:22Z",
+                "last_commit": "2026-08-28T19:38:50Z",
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
                 "stars": 60
               },
-              "title": "snaporca-cad - Snapmaker Orca with CAD"
+              "title": "snaporca-cad - Snapmaker Orca with CAD",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1229,7 +1303,8 @@
                 "repo": "OrcaSlicer-ImageMap",
                 "stars": 122
               },
-              "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)"
+              "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1242,9 +1317,10 @@
                 "last_commit": "2026-08-13T10:45:14Z",
                 "owner": "WilliamTheMaker",
                 "repo": "BuildMyOwnBlackBox_for_Snapmaker_U1",
-                "stars": 9
+                "stars": 10
               },
-              "title": "Black Box Dual PWM Fan Mod"
+              "title": "Black Box Dual PWM Fan Mod",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1257,9 +1333,10 @@
                 "last_commit": "2026-08-27T05:51:32Z",
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2745
+                "stars": 2752
               },
-              "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools."
+              "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools.",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1274,7 +1351,8 @@
                 "repo": "ditherforge",
                 "stars": 28
               },
-              "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers."
+              "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1289,7 +1367,8 @@
                 "repo": "Snapmaker-U1-Card",
                 "stars": 12
               },
-              "title": "Snapmaker U1 Card for Home Assitant"
+              "title": "Snapmaker U1 Card for Home Assitant",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1302,9 +1381,10 @@
                 "last_commit": "2026-08-27T07:18:42Z",
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 151
+                "stars": 152
               },
-              "title": "multiACE"
+              "title": "multiACE",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1317,9 +1397,10 @@
                 "last_commit": "2026-04-30T07:05:32Z",
                 "owner": "decay71",
                 "repo": "mUlt1ACE",
-                "stars": 11
+                "stars": 12
               },
-              "title": "mUlt1ACE - use multiple AcePRO units with Snapmaker U1"
+              "title": "mUlt1ACE - use multiple AcePRO units with Snapmaker U1",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1334,7 +1415,8 @@
                 "repo": "Snapmaker-U1-Research",
                 "stars": 8
               },
-              "title": "Snapmaker U1 - Research Documentation"
+              "title": "Snapmaker U1 - Research Documentation",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1349,7 +1431,8 @@
                 "repo": "SnapAce",
                 "stars": 81
               },
-              "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1"
+              "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1364,7 +1447,8 @@
                 "repo": "bl2u1",
                 "stars": 67
               },
-              "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1"
+              "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1379,7 +1463,8 @@
                 "repo": "Calibration-Shapes",
                 "stars": 366
               },
-              "title": "Calibration shapes"
+              "title": "Calibration shapes",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1394,7 +1479,8 @@
                 "repo": "terrain-to-3d",
                 "stars": 62
               },
-              "title": "Terrain To STL"
+              "title": "Terrain To STL",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1409,7 +1495,8 @@
                 "repo": "HomeAssistant",
                 "stars": 9
               },
-              "title": "Snapmaker U1 - Home Assitant Dashboard"
+              "title": "Snapmaker U1 - Home Assitant Dashboard",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1422,9 +1509,10 @@
                 "last_commit": "2026-08-10T04:18:27Z",
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 747
+                "stars": 748
               },
-              "title": "Full Spectrum layer blending with OrcaSlicer Fork"
+              "title": "Full Spectrum layer blending with OrcaSlicer Fork",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
               "children": [],
@@ -1439,7 +1527,8 @@
                 "repo": "Nevermore_Micro",
                 "stars": 1610
               },
-              "title": "DIY Fumes Filtration system - NeverMore"
+              "title": "DIY Fumes Filtration system - NeverMore",
+              "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
           "description": null,
@@ -1451,7 +1540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:59:56.417Z",
+    "last_updated": "2026-08-29T00:35:33.110Z",
     "original_repository_info": {
       "archived": false,
       "id": 639871839,

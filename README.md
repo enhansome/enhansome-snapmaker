@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,610 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,611 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,610 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,611 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,610 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,611 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6877,7 +6877,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,610 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,611 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 

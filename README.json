@@ -11,12 +11,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Creates an interface to connect Snapmaker Devices",
+                "homepage": null,
                 "id": 990564408,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-06T06:29:18Z",
+                "open_issues": 0,
                 "owner": "mrtayguney",
                 "repo": "snapremote-server",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "title": "SnapRemote",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -34,12 +39,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool for send the gcode file to Snapmaker Printers via WiFi connection.",
+                "homepage": null,
                 "id": 317583132,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-02T15:10:16Z",
+                "open_issues": 13,
                 "owner": "macdylan",
                 "repo": "sm2uploader",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "title": "SM2Uploader",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -57,12 +67,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SnapOrca CAD — Snapmaker Orca with an integrated parametric, sketch-first CAD environment (Design tab): constraint solver on an OpenCASCADE B-rep kernel, STEP import, in-canvas gizmos. Snapmaker-base twin of Orca-Cad. AGPL-3.0.",
+                "homepage": "https://github.com/tommasobbianchi/snaporca-cad",
                 "id": 1261190178,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T19:38:50Z",
+                "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -73,12 +88,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SMFix is a post-processing tool for PrusaSlicer/SuperSlicer/OrcaSlicer designed to be compatible with Snapmaker printers.",
+                "homepage": null,
                 "id": 483491283,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-01T05:04:16Z",
+                "open_issues": 1,
                 "owner": "macdylan",
                 "repo": "SMFix",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "title": "Snapmaker2Slic3rPostProcessor",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -89,12 +109,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts + 7 Postprocessing scripts",
+                "homepage": null,
                 "id": 265544695,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-07T19:03:45Z",
+                "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "cura",
+                  "cura-plugin",
+                  "ultimaker"
+                ]
               },
               "title": "Calibration shapes",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -105,12 +134,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Create 3D models of terrain",
+                "homepage": null,
                 "id": 1159953069,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-28T12:24:41Z",
+                "open_issues": 4,
                 "owner": "ModelRift",
                 "repo": "terrain-to-3d",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "title": "Terrain To STL",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -121,12 +155,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Creates an interface to connect Snapmaker Devices",
+                "homepage": null,
                 "id": 990564408,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-06T06:29:18Z",
+                "open_issues": 0,
                 "owner": "mrtayguney",
                 "repo": "snapremote-server",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "title": "SnapRemote",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -137,12 +176,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!",
+                "homepage": null,
                 "id": 413995946,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-01T12:36:38Z",
+                "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1610
+                "stars": 1611,
+                "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -160,12 +204,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Tool to calibrate laser cutters.",
+                "homepage": "https://daniel-starke.github.io/LaserCalibrationTool/",
                 "id": 607871392,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-28T21:17:03Z",
+                "open_issues": 0,
                 "owner": "daniel-starke",
                 "repo": "LaserCalibrationTool",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "title": "Laser Calibration Tool",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -176,12 +225,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Laser 40w Fan",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -192,12 +249,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Creates an interface to connect Snapmaker Devices",
+                "homepage": null,
                 "id": 990564408,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-06T06:29:18Z",
+                "open_issues": 0,
                 "owner": "mrtayguney",
                 "repo": "snapremote-server",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "title": "SnapRemote",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -208,12 +270,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Guide: Luban - how to use layers",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -224,12 +294,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 436686959,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-12T17:57:41Z",
+                "open_issues": 0,
                 "owner": "bleeptrack",
                 "repo": "fr0zen-system-laser",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "title": "Snowflakes generator",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -253,12 +328,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool for send the gcode file to Snapmaker Printers via WiFi connection.",
+                "homepage": null,
                 "id": 317583132,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-02T15:10:16Z",
+                "open_issues": 13,
                 "owner": "macdylan",
                 "repo": "sm2uploader",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "title": "SM2Uploader",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -276,12 +356,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SnapOrca CAD — Snapmaker Orca with an integrated parametric, sketch-first CAD environment (Design tab): constraint solver on an OpenCASCADE B-rep kernel, STEP import, in-canvas gizmos. Snapmaker-base twin of Orca-Cad. AGPL-3.0.",
+                "homepage": "https://github.com/tommasobbianchi/snaporca-cad",
                 "id": 1261190178,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T19:38:50Z",
+                "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -292,12 +377,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SMFix is a post-processing tool for PrusaSlicer/SuperSlicer/OrcaSlicer designed to be compatible with Snapmaker printers.",
+                "homepage": null,
                 "id": 483491283,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-01T05:04:16Z",
+                "open_issues": 1,
                 "owner": "macdylan",
                 "repo": "SMFix",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "title": "Snapmaker2Slic3rPostProcessor",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -308,12 +398,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts + 7 Postprocessing scripts",
+                "homepage": null,
                 "id": 265544695,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-07T19:03:45Z",
+                "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "cura",
+                  "cura-plugin",
+                  "ultimaker"
+                ]
               },
               "title": "Calibration shapes",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -324,12 +423,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Create 3D models of terrain",
+                "homepage": null,
                 "id": 1159953069,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-28T12:24:41Z",
+                "open_issues": 4,
                 "owner": "ModelRift",
                 "repo": "terrain-to-3d",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "title": "Terrain To STL",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -340,12 +444,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!",
+                "homepage": null,
                 "id": 413995946,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-01T12:36:38Z",
+                "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1610
+                "stars": 1611,
+                "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -369,12 +478,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Tool to calibrate laser cutters.",
+                "homepage": "https://daniel-starke.github.io/LaserCalibrationTool/",
                 "id": 607871392,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-28T21:17:03Z",
+                "open_issues": 0,
                 "owner": "daniel-starke",
                 "repo": "LaserCalibrationTool",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "title": "Laser Calibration Tool",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -385,12 +499,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Laser 40w Fan",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -401,12 +523,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Guide: Luban - how to use layers",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -417,12 +547,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 436686959,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-12T17:57:41Z",
+                "open_issues": 0,
                 "owner": "bleeptrack",
                 "repo": "fr0zen-system-laser",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "title": "Snowflakes generator",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -446,12 +581,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Stiffening modification for the Snapmaker 2.0 A350 - utilizing 3d printed or CNC machined parts to incorporate MGNH15 linear rails into the X & Z modules",
+                "homepage": null,
                 "id": 828066953,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-25T17:07:50Z",
+                "open_issues": 0,
                 "owner": "christopz",
                 "repo": "snapmakerstiffy",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "title": "Snapmaker Stiffy Kit by CTZcnc",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -462,12 +602,29 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Snapmaker 2.0 (A350, A250, A150) tool libraries, machine profiles, post processor...",
+                "homepage": null,
                 "id": 472555704,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-13T09:04:49Z",
+                "open_issues": 7,
                 "owner": "nunorvoliveira",
                 "repo": "snapmaker-2.0",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "a150",
+                  "a250",
+                  "a350",
+                  "a350t",
+                  "fusion-360",
+                  "fusion360",
+                  "machine-library",
+                  "post-processor",
+                  "postprocessor",
+                  "snapmaker",
+                  "tool-library"
+                ]
               },
               "title": "Fusion360 Post Processor",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -478,12 +635,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A FreeCAD postprocessor for Snapmaker 2 CNC module",
+                "homepage": null,
                 "id": 567316217,
                 "language": "Python",
+                "license": "EUPL-1.2",
                 "last_commit": "2025-11-30T13:09:51Z",
+                "open_issues": 2,
                 "owner": "clsergent",
                 "repo": "Snapmaker2Postprocessor",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "freecad",
+                  "freecad-macro",
+                  "gcode-processing",
+                  "python",
+                  "snapmaker"
+                ]
               },
               "title": "Snapmaker2Postprocessor for FreeCAD",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -494,12 +662,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 243396536,
                 "language": "Component Pascal",
+                "license": null,
                 "last_commit": "2024-05-02T17:50:22Z",
+                "open_issues": 16,
                 "owner": "Snapmaker",
                 "repo": "snapmaker_cnc_post_process",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "3d-printing",
+                  "snapmaker"
+                ]
               },
               "title": "CNC postprocessors for Snapmaker",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -510,12 +686,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "3D touch probe controller (CAN bus) for Snapmaker 2",
+                "homepage": null,
                 "id": 456277182,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-02-11T22:13:59Z",
+                "open_issues": 0,
                 "owner": "brvdboss",
                 "repo": "3D-touchprobe-controller",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "title": "3D Touchprobe controller for Snapmaker 2.0",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -526,12 +707,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 517037116,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-08-06T19:51:50Z",
+                "open_issues": 5,
                 "owner": "hauti123",
                 "repo": "Snapmaker",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "title": "Snapmaker Command Line Tool (CLI)",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -542,12 +728,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Control your Snapmaker with a gamepad",
+                "homepage": null,
                 "id": 510337100,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-06T14:44:32Z",
+                "open_issues": 0,
                 "owner": "Maycuz",
                 "repo": "snapmaker-gamepad-control",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "title": "Gamepad Controls for Snapmaker",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -558,12 +749,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 stock pictures",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -574,12 +773,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 Model By Stefix",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -590,12 +797,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -606,12 +821,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 platform drawing",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -622,12 +845,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Model of the 200w CNC Shell",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -638,12 +869,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Creates an interface to connect Snapmaker Devices",
+                "homepage": null,
                 "id": 990564408,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-06T06:29:18Z",
+                "open_issues": 0,
                 "owner": "mrtayguney",
                 "repo": "snapremote-server",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "title": "SnapRemote",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -654,12 +890,22 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A Basic Process for PCB milling on the Snapmaker 2.0",
+                "homepage": null,
                 "id": 367782710,
                 "language": "G-code",
+                "license": "MIT",
                 "last_commit": "2023-10-20T07:02:10Z",
+                "open_issues": 0,
                 "owner": "tommy-vaux",
                 "repo": "Snapmaker_2_PCB_Milling_Process",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cnc",
+                  "cnc-machine",
+                  "pcb-mill",
+                  "snapmaker"
+                ]
               },
               "title": "PCB milling process",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -670,12 +916,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 309575153,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-11-21T13:45:50Z",
+                "open_issues": 0,
                 "owner": "zauguin",
                 "repo": "SnapmakerUpdate",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "title": "Snapmaker2 update bundle tools",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -693,12 +944,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool for send the gcode file to Snapmaker Printers via WiFi connection.",
+                "homepage": null,
                 "id": 317583132,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-02T15:10:16Z",
+                "open_issues": 13,
                 "owner": "macdylan",
                 "repo": "sm2uploader",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "title": "SM2Uploader",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -716,12 +972,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SnapOrca CAD — Snapmaker Orca with an integrated parametric, sketch-first CAD environment (Design tab): constraint solver on an OpenCASCADE B-rep kernel, STEP import, in-canvas gizmos. Snapmaker-base twin of Orca-Cad. AGPL-3.0.",
+                "homepage": "https://github.com/tommasobbianchi/snaporca-cad",
                 "id": 1261190178,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T19:38:50Z",
+                "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -732,12 +993,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SMFix is a post-processing tool for PrusaSlicer/SuperSlicer/OrcaSlicer designed to be compatible with Snapmaker printers.",
+                "homepage": null,
                 "id": 483491283,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-01T05:04:16Z",
+                "open_issues": 1,
                 "owner": "macdylan",
                 "repo": "SMFix",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "title": "Snapmaker2Slic3rPostProcessor",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -748,12 +1014,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Snapmaker 2.0 PrusaSlicer Post-Processor",
+                "homepage": null,
                 "id": 335077417,
                 "language": "C",
+                "license": "Unlicense",
                 "last_commit": "2024-05-11T20:18:47Z",
+                "open_issues": 1,
                 "owner": "daniel-starke",
                 "repo": "sm2pspp",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "title": "A Snapmaker 2.0 PrusaSlicer Post-Processor to create compatible files for the Snapmaker terminal.",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -764,12 +1035,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 517037116,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-08-06T19:51:50Z",
+                "open_issues": 5,
                 "owner": "hauti123",
                 "repo": "Snapmaker",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "title": "Snapmaker Command Line Tool (CLI)",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -780,12 +1056,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Control your Snapmaker with a gamepad",
+                "homepage": null,
                 "id": 510337100,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-06T14:44:32Z",
+                "open_issues": 0,
                 "owner": "Maycuz",
                 "repo": "snapmaker-gamepad-control",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "title": "Gamepad Controls for Snapmaker",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -796,12 +1077,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts + 7 Postprocessing scripts",
+                "homepage": null,
                 "id": 265544695,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-07T19:03:45Z",
+                "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "cura",
+                  "cura-plugin",
+                  "ultimaker"
+                ]
               },
               "title": "Calibration shapes",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -812,12 +1102,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 stock pictures",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -828,12 +1126,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 Model By Stefix",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -844,12 +1150,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -860,12 +1174,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 platform drawing",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -876,12 +1198,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Model of the Dual Extruder Shell",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -892,12 +1222,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Create 3D models of terrain",
+                "homepage": null,
                 "id": 1159953069,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-28T12:24:41Z",
+                "open_issues": 4,
                 "owner": "ModelRift",
                 "repo": "terrain-to-3d",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "title": "Terrain To STL",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -908,12 +1243,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Creates an interface to connect Snapmaker Devices",
+                "homepage": null,
                 "id": 990564408,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-06T06:29:18Z",
+                "open_issues": 0,
                 "owner": "mrtayguney",
                 "repo": "snapremote-server",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "title": "SnapRemote",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -924,12 +1264,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "This repository holds G-Code developed to adopt 3DChameleon MK3 version with Snapmaker 2.0",
+                "homepage": null,
                 "id": 861322401,
                 "language": "G-code",
+                "license": null,
                 "last_commit": "2024-09-23T14:17:34Z",
+                "open_issues": 0,
                 "owner": "shurushetr",
                 "repo": "3DChameleon_Snapmaker_2.0",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "title": "3D Chameleon for multicolor prints with Snapmaker 2.0 and single extruder",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -940,12 +1285,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "E-Step calibration",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -956,12 +1309,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 309575153,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-11-21T13:45:50Z",
+                "open_issues": 0,
                 "owner": "zauguin",
                 "repo": "SnapmakerUpdate",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "title": "Snapmaker2 update bundle tools",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -972,12 +1330,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Snapmaker2-Controller is the firmware for Snapmaker 2.0 3-in-1 3D Printers.",
+                "homepage": null,
                 "id": 651404981,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-09T07:22:32Z",
+                "open_issues": 0,
                 "owner": "Maycuz",
                 "repo": "Snapmaker2-Controller",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "title": "Use Dual Extruder to autolevel on any surface",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -988,12 +1351,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!",
+                "homepage": null,
                 "id": 413995946,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-01T12:36:38Z",
+                "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1610
+                "stars": 1611,
+                "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1004,12 +1372,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Glass bed leveling probe - FiFix Mod for SM2.0",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1027,12 +1403,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Create a customizable laser test grid for your Snapmaker",
+                "homepage": null,
                 "id": 485480839,
                 "language": "Visual Basic .NET",
+                "license": null,
                 "last_commit": "2026-08-10T10:30:47Z",
+                "open_issues": 2,
                 "owner": "nunorvoliveira",
                 "repo": "Snapmaker-Laser-Test-Grid",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "title": "Laser Test Grid Generator",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1043,12 +1424,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Tool to calibrate laser cutters.",
+                "homepage": "https://daniel-starke.github.io/LaserCalibrationTool/",
                 "id": 607871392,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-28T21:17:03Z",
+                "open_issues": 0,
                 "owner": "daniel-starke",
                 "repo": "LaserCalibrationTool",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "title": "Laser Calibration Tool",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1059,12 +1445,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 517037116,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-08-06T19:51:50Z",
+                "open_issues": 5,
                 "owner": "hauti123",
                 "repo": "Snapmaker",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "title": "Snapmaker Command Line Tool (CLI)",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1075,12 +1466,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Control your Snapmaker with a gamepad",
+                "homepage": null,
                 "id": 510337100,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-06T14:44:32Z",
+                "open_issues": 0,
                 "owner": "Maycuz",
                 "repo": "snapmaker-gamepad-control",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "title": "Gamepad Controls for Snapmaker",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1091,12 +1487,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 stock pictures",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1107,12 +1511,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Laser 40w Fan",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1123,12 +1535,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 Model By Stefix",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1139,12 +1559,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1155,12 +1583,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Snapmaker 2.0 A350 platform drawing",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1171,12 +1607,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Creates an interface to connect Snapmaker Devices",
+                "homepage": null,
                 "id": 990564408,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-06-06T06:29:18Z",
+                "open_issues": 0,
                 "owner": "mrtayguney",
                 "repo": "snapremote-server",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "title": "SnapRemote",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1187,12 +1628,20 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+                "homepage": null,
                 "id": 639871839,
                 "language": "B (Formal Method)",
+                "license": null,
                 "last_commit": "2026-08-03T14:09:41Z",
+                "open_issues": 2,
                 "owner": "shurushetr",
                 "repo": "awesome-snapmaker",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "title": "Guide: Luban - how to use layers",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1203,12 +1652,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 436686959,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-12T17:57:41Z",
+                "open_issues": 0,
                 "owner": "bleeptrack",
                 "repo": "fr0zen-system-laser",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "title": "Snowflakes generator",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1219,12 +1673,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 309575153,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-11-21T13:45:50Z",
+                "open_issues": 0,
                 "owner": "zauguin",
                 "repo": "SnapmakerUpdate",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "title": "Snapmaker2 update bundle tools",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1248,12 +1707,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SnapMaker U1 Fleet Management App",
+                "homepage": null,
                 "id": 1292919153,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T08:12:23Z",
+                "open_issues": 4,
                 "owner": "ezeitoun",
                 "repo": "SnapCon",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "title": "SnapCon - U1 Print Farm Management Solution",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1264,12 +1728,26 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Flexible OrcaSlicer for the Snapmaker U1 - Color Patch prints painted surfaces as a shell over a different-material core (soft grip on a rigid body, see-through layers), plus mixed nozzle sizes with per-nozzle line width & speed.",
+                "homepage": "https://jiyang1018.github.io/FOrcaSlicer-roadmap/",
                 "id": 1252084141,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T20:19:19Z",
+                "open_issues": 3,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "3d-printing",
+                  "3d-printing-slicer",
+                  "fdm",
+                  "multi-material",
+                  "orcaslicer",
+                  "slicer",
+                  "snapmaker",
+                  "snapmaker-u1"
+                ]
               },
               "title": "FOrcaSlicer — Flexible OrcaSlicer",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1280,12 +1758,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "SnapOrca CAD — Snapmaker Orca with an integrated parametric, sketch-first CAD environment (Design tab): constraint solver on an OpenCASCADE B-rep kernel, STEP import, in-canvas gizmos. Snapmaker-base twin of Orca-Cad. AGPL-3.0.",
+                "homepage": "https://github.com/tommasobbianchi/snaporca-cad",
                 "id": 1261190178,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T19:38:50Z",
+                "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "snaporca-cad",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1296,12 +1779,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "An OrcaSlicer Fork with Image Printing Support (via overhang modulation)",
+                "homepage": "https://www.orcaslicer.com",
                 "id": 1235836011,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-01T19:20:08Z",
+                "open_issues": 0,
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1312,12 +1800,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Snapmaker U1 - Black Box Dual PWM Fan Mod - An unofficial Snapmaker U1 mod project to build a custom electronic **Black Box** for two PWM fans, based on reverse-engineering the purifier-related Klipper configuration and control logic.",
+                "homepage": null,
                 "id": 1230558014,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T10:45:14Z",
+                "open_issues": 2,
                 "owner": "WilliamTheMaker",
                 "repo": "BuildMyOwnBlackBox_for_Snapmaker_U1",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "title": "Black Box Dual PWM Fan Mod",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1328,12 +1821,22 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Keep track of your inventory of 3D-printer filament spools.",
+                "homepage": null,
                 "id": 622237147,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T05:51:32Z",
+                "open_issues": 157,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2752
+                "stars": 2752,
+                "topics": [
+                  "3d-printing",
+                  "database",
+                  "inventory",
+                  "service"
+                ]
               },
               "title": "Spoolman - Keep track of your inventory of 3D-printer filament spools.",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1344,12 +1847,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert textured 3D models (GLB) into multi-color 3D-printable files (3MF) for multi-filament printers.",
+                "homepage": null,
                 "id": 1195808639,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-30T01:23:56Z",
+                "open_issues": 0,
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1360,12 +1868,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A custome card for home assistant created for the Snapmaker U1 3D Printer. Styled after the Prism Cards",
+                "homepage": null,
                 "id": 1227714181,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-07T16:00:26Z",
+                "open_issues": 2,
                 "owner": "rickkollins",
                 "repo": "Snapmaker-U1-Card",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "title": "Snapmaker U1 Card for Home Assitant",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1376,12 +1889,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Multi-ACE Pro integration for Snapmaker U1 -  Version 0.99.8b \"Resupply Run\"  up to 4 ACE  + ACE2 (16colors),  Web UI, Web Preflight, Ace Refill, Spool management, Parked Swaps, Tipforming. Fluidd integrations as cam. Beta software, reverse engineered system.  See section Reliability on:",
+                "homepage": "https://postapocalyptic-diy.com/multiace",
                 "id": 1193438419,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T07:18:42Z",
+                "open_issues": 3,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "title": "multiACE",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1392,12 +1910,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "This rep has moved to https://github.com/decay71/multiACE",
+                "homepage": null,
                 "id": 1200747989,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-30T07:05:32Z",
+                "open_issues": 0,
                 "owner": "decay71",
                 "repo": "mUlt1ACE",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "title": "mUlt1ACE - use multiple AcePRO units with Snapmaker U1",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1408,12 +1931,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Project researching and capturing information about various aspects of Snapmaker U1",
+                "homepage": null,
                 "id": 1110596855,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-12-05T13:10:40Z",
+                "open_issues": 1,
                 "owner": "Snapmaker-U1-Extended-Firmware",
                 "repo": "Snapmaker-U1-Research",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "title": "Snapmaker U1 - Research Documentation",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1424,12 +1952,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1176321723,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-11T12:28:07Z",
+                "open_issues": 12,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1440,12 +1973,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Bambulab Studio to Snapmaker Orca (for the U1) converter",
+                "homepage": "https://bl2u1.nbn.cat",
                 "id": 1146210246,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-07T20:41:00Z",
+                "open_issues": 4,
                 "owner": "josuanbn",
                 "repo": "bl2u1",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1456,12 +1994,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A Cura plugin that adds simple shapes (cube, cylinder, tube)  and also 24 Calibration and test parts + 7 Postprocessing scripts",
+                "homepage": null,
                 "id": 265544695,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-07T19:03:45Z",
+                "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "cura",
+                  "cura-plugin",
+                  "ultimaker"
+                ]
               },
               "title": "Calibration shapes",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1472,12 +2019,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Create 3D models of terrain",
+                "homepage": null,
                 "id": 1159953069,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-28T12:24:41Z",
+                "open_issues": 4,
                 "owner": "ModelRift",
                 "repo": "terrain-to-3d",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "title": "Terrain To STL",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1488,12 +2040,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Home Assistant Goodies",
+                "homepage": null,
                 "id": 1115966869,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-25T12:18:10Z",
+                "open_issues": 0,
                 "owner": "ScottEKendall",
                 "repo": "HomeAssistant",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "title": "Snapmaker U1 - Home Assitant Dashboard",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1504,12 +2061,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "G-code generator for Snapmaker U1 with Full Spectrum layer blending",
+                "homepage": "https://buymeacoffee.com/ratdoux",
                 "id": 1153959601,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-10T04:18:27Z",
+                "open_issues": 45,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 748
+                "stars": 748,
+                "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1520,12 +2082,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!",
+                "homepage": null,
                 "id": 413995946,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-01T12:36:38Z",
+                "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1610
+                "stars": 1611,
+                "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
               "first_seen": "2026-08-29T00:35:33.110Z"
@@ -1540,15 +2107,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:35:33.110Z",
+    "last_updated": "2026-08-29T04:53:19.487Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
+      "homepage": null,
       "id": 639871839,
       "language": "B (Formal Method)",
+      "license": null,
       "last_commit": "2026-08-03T14:09:41Z",
+      "open_issues": 2,
       "owner": "shurushetr",
       "repo": "awesome-snapmaker",
-      "stars": 157
+      "stars": 157,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "64bd8ae9849c86ffa382757a05d2c4ce077261e8",
     "enhanced_repository": "enhansome/enhansome-snapmaker",

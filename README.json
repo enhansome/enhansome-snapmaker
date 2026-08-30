@@ -1733,7 +1733,7 @@
                 "id": 1252084141,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-25T20:19:19Z",
+                "last_commit": "2026-08-30T05:09:38Z",
                 "open_issues": 3,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
@@ -1830,7 +1830,7 @@
                 "open_issues": 156,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2753,
+                "stars": 2754,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1898,7 +1898,7 @@
                 "open_issues": 2,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 152,
+                "stars": 154,
                 "topics": []
               },
               "title": "multiACE",
@@ -2070,7 +2070,7 @@
                 "open_issues": 45,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 748,
+                "stars": 749,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:26:23.393Z",
+    "last_updated": "2026-08-30T19:21:42.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

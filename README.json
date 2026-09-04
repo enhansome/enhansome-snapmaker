@@ -1733,7 +1733,7 @@
                 "id": 1252084141,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T01:46:34Z",
+                "last_commit": "2026-09-04T08:51:30Z",
                 "open_issues": 3,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
@@ -1809,7 +1809,7 @@
                 "open_issues": 3,
                 "owner": "WilliamTheMaker",
                 "repo": "BuildMyOwnBlackBox_for_Snapmaker_U1",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "title": "Black Box Dual PWM Fan Mod",
@@ -1827,10 +1827,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-03T14:58:53Z",
-                "open_issues": 161,
+                "open_issues": 163,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2767,
+                "stars": 2772,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1898,7 +1898,7 @@
                 "open_issues": 7,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 160,
+                "stars": 162,
                 "topics": []
               },
               "title": "multiACE",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:20:14.943Z",
+    "last_updated": "2026-09-04T19:01:12.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

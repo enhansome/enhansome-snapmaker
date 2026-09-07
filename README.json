@@ -1827,10 +1827,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T20:56:09Z",
-                "open_issues": 166,
+                "open_issues": 165,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2786,
+                "stars": 2790,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1889,13 +1889,13 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "Multi-ACE Pro integration for Snapmaker U1 -  Version 0.99.8b \"Resupply Run\"  up to 4 ACE  + ACE2 (16colors),  Web UI, Web Preflight, Ace Refill, Spool management, Parked Swaps, Tipforming. Fluidd integrations as cam. Beta software, reverse engineered system.  See section Reliability on:",
+                "description": "Multi-ACE Pro integration for Snapmaker U1 -  Version 1.00.1b  up to 4 ACE  + ACE2 (16colors),  Web UI, Web Preflight, Ace Refill, Spool management, Parked Swaps, Tipforming. RFID read + write, Fluidd integrations as cam. Beta software, reverse engineered system.  See section Reliability on:",
                 "homepage": "https://postapocalyptic-diy.com/multiace",
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-27T07:18:42Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-07T18:37:59Z",
+                "open_issues": 3,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 163,
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:25:02.469Z",
+    "last_updated": "2026-09-07T20:01:17.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

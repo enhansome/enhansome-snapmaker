@@ -411,7 +411,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SM2Uploader](https://github.com/macdylan/sm2uploader) ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2026-09-10
+#### [SM2Uploader](https://github.com/macdylan/sm2uploader) ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2026-09-11
 
 > A command-line tool for sending the files to Snapmaker machines via network connection. Can act as Octoprint to emulate upload for Cura/PrusaSlicer/SuperSlicer/ideaMaker. Use it with NC and CNC files on Snapmaker 2 A150/250/350, J1, Artisan.
 
@@ -617,7 +617,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker2Slic3rPostProcessor](https://github.com/macdylan/Snapmaker2Slic3rPostProcessor) ⭐ 22 | 🐛 1 | 🌐 Go | 📅 2026-09-10
+#### [Snapmaker2Slic3rPostProcessor](https://github.com/macdylan/Snapmaker2Slic3rPostProcessor) ⭐ 22 | 🐛 1 | 🌐 Go | 📅 2026-09-11
 
 > A Snapmaker G-Code Post Processor for PrusaSlicer and SuperSlicer to create compatible files for Snapmaker Touchscreen. Like thumbnail of the print on the screen. Supports PrusaSlicer and SuperSlicer with Snapmaker 2 A150/250/350, J1, Artisan.
 
@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,613 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -1740,7 +1740,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SM2Uploader](https://github.com/macdylan/sm2uploader) ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2026-09-10
+#### [SM2Uploader](https://github.com/macdylan/sm2uploader) ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2026-09-11
 
 > A command-line tool for sending the files to Snapmaker machines via network connection. Can act as Octoprint to emulate upload for Cura/PrusaSlicer/SuperSlicer/ideaMaker. Use it with NC and CNC files on Snapmaker 2 A150/250/350, J1, Artisan.
 
@@ -1906,7 +1906,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker2Slic3rPostProcessor](https://github.com/macdylan/Snapmaker2Slic3rPostProcessor) ⭐ 22 | 🐛 1 | 🌐 Go | 📅 2026-09-10
+#### [Snapmaker2Slic3rPostProcessor](https://github.com/macdylan/Snapmaker2Slic3rPostProcessor) ⭐ 22 | 🐛 1 | 🌐 Go | 📅 2026-09-11
 
 > A Snapmaker G-Code Post Processor for PrusaSlicer and SuperSlicer to create compatible files for Snapmaker Touchscreen. Like thumbnail of the print on the screen. Supports PrusaSlicer and SuperSlicer with Snapmaker 2 A150/250/350, J1, Artisan.
 
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,613 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -3981,7 +3981,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SM2Uploader](https://github.com/macdylan/sm2uploader) ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2026-09-10
+#### [SM2Uploader](https://github.com/macdylan/sm2uploader) ⭐ 63 | 🐛 13 | 🌐 Go | 📅 2026-09-11
 
 > A command-line tool for sending the files to Snapmaker machines via network connection. Can act as Octoprint to emulate upload for Cura/PrusaSlicer/SuperSlicer/ideaMaker. Use it with NC and CNC files on Snapmaker 2 A150/250/350, J1, Artisan.
 
@@ -4207,7 +4207,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker2Slic3rPostProcessor](https://github.com/macdylan/Snapmaker2Slic3rPostProcessor) ⭐ 22 | 🐛 1 | 🌐 Go | 📅 2026-09-10
+#### [Snapmaker2Slic3rPostProcessor](https://github.com/macdylan/Snapmaker2Slic3rPostProcessor) ⭐ 22 | 🐛 1 | 🌐 Go | 📅 2026-09-11
 
 > A Snapmaker G-Code Post Processor for PrusaSlicer and SuperSlicer to create compatible files for Snapmaker Touchscreen. Like thumbnail of the print on the screen. Supports PrusaSlicer and SuperSlicer with Snapmaker 2 A150/250/350, J1, Artisan.
 
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,613 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 12 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-31
+#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-11
 
 > SnapCon is a local-first fleet management platform built primarily for Snapmaker U1 print farms.
 >
@@ -6079,10 +6079,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 23 | 🐛 3 | 🌐 C++ | 📅 2026-09-04
+#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 23 | 🐛 3 | 🌐 C++ | 📅 2026-09-11
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 243 | 🐛 138 | 🌐 C++ | 📅 2026-09-10 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 243 | 🐛 137 | 🌐 C++ | 📅 2026-09-11 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6140,7 +6140,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,801 | 🐛 169 | 🌐 Python | 📅 2026-09-10
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,806 | 🐛 170 | 🌐 Python | 📅 2026-09-10
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6243,7 +6243,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker U1 Card for Home Assitant](https://github.com/rickkollins/Snapmaker-U1-Card) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-07
+#### [Snapmaker U1 Card for Home Assitant](https://github.com/rickkollins/Snapmaker-U1-Card) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-07
 
 > A Prism Dashboard-style Home Assistant Lovelace card for the Snapmaker U1 3D printer, pulling live data from the [Moonraker](https://moonraker.readthedocs.io/) REST API (Klipper / AFC Lite v2.x firmware). THIS CARD REQUIRES THAT EXTENDED FIRMWARE BE INSTALLED, AND AFC LITE BE ENABLED!
 
@@ -6265,7 +6265,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2026-09-08
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 166 | 🐛 2 | 🌐 Python | 📅 2026-09-08
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 82 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6877,7 +6877,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,613 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7479,4 +7479,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

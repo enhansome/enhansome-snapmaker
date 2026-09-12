@@ -483,7 +483,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-10
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,615 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -1772,7 +1772,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-10
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,615 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -4073,7 +4073,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-10
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,615 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-11
+#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-11
 
 > SnapCon is a local-first fleet management platform built primarily for Snapmaker U1 print farms.
 >
@@ -6090,7 +6090,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-10
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 60 | 🐛 0 | 🌐 C++ | 📅 2026-09-12
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6102,7 +6102,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 126 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
+#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 127 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
 
 > Apply image to the surface of your print!
 >
@@ -6140,7 +6140,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,806 | 🐛 170 | 🌐 Python | 📅 2026-09-10
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,812 | 🐛 172 | 🌐 Python | 📅 2026-09-10
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6265,7 +6265,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 166 | 🐛 2 | 🌐 Python | 📅 2026-09-08
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 167 | 🐛 2 | 🌐 Python | 📅 2026-09-08
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 82 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6877,7 +6877,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,614 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,615 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7479,4 +7479,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

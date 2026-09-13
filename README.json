@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -453,7 +453,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1360,7 +1360,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1737,7 +1737,7 @@
                 "open_issues": 3,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1826,11 +1826,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T07:42:56Z",
-                "open_issues": 172,
+                "last_commit": "2026-09-13T10:59:46Z",
+                "open_issues": 167,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2812,
+                "stars": 2814,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1895,7 +1895,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-08T04:53:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 167,
@@ -1961,7 +1961,7 @@
                 "open_issues": 13,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
@@ -2067,10 +2067,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-09T02:05:16Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 753,
+                "stars": 754,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -2091,7 +2091,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:30:03.943Z",
+    "last_updated": "2026-09-13T18:50:49.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

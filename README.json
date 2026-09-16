@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -453,7 +453,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1360,7 +1360,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1712,7 +1712,7 @@
                 "id": 1292919153,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T02:04:54Z",
+                "last_commit": "2026-09-16T18:36:32Z",
                 "open_issues": 0,
                 "owner": "ezeitoun",
                 "repo": "SnapCon",
@@ -1827,10 +1827,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-14T17:29:21Z",
-                "open_issues": 165,
+                "open_issues": 166,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2823,
+                "stars": 2826,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1856,7 +1856,7 @@
                 "open_issues": 0,
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
@@ -1898,7 +1898,7 @@
                 "open_issues": 2,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 168,
+                "stars": 169,
                 "topics": []
               },
               "title": "multiACE",
@@ -1961,7 +1961,7 @@
                 "open_issues": 13,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
@@ -2091,7 +2091,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:44:07.801Z",
+    "last_updated": "2026-09-16T19:36:26.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

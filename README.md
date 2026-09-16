@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,617 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,617 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,617 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-11
+#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-16
 
 > SnapCon is a local-first fleet management platform built primarily for Snapmaker U1 print farms.
 >
@@ -6082,7 +6082,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 #### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 26 | 🐛 3 | 🌐 C++ | 📅 2026-09-11
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 244 | 🐛 140 | 🌐 C++ | 📅 2026-09-15 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 245 | 🐛 140 | 🌐 C++ | 📅 2026-09-16 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6140,7 +6140,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,823 | 🐛 165 | 🌐 Python | 📅 2026-09-14
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,826 | 🐛 166 | 🌐 Python | 📅 2026-09-14
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6164,7 +6164,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.](https://github.com/rtwfroody/ditherforge) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2026-07-30
+#### [DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.](https://github.com/rtwfroody/ditherforge) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2026-07-30
 
 > <img width="1357" height="823" alt="Image" src="https://github.com/user-attachments/assets/f0b51249-5a3a-45ae-869d-86823ea3c998" />
 
@@ -6265,10 +6265,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2026-09-08
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 169 | 🐛 2 | 🌐 Python | 📅 2026-09-08
 
 > What is multiACE?
-> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
+> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 84 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
 >
 > Typical Workflow
 > Single Material (e.g. PLA on ACE 0)
@@ -6430,7 +6430,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2026-03-11
+#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 84 | 🐛 13 | 🌐 Python | 📅 2026-03-11
 
 > This project provides integration of the Anycubic ACE PRO with the Snapmaker U1 printer as a filament storage. Using [PAXX12 custom firmware](https://awesome-sm-list.xyz/#paxx12-firmware-for-snapmaerk-u1-7).
 
@@ -6877,7 +6877,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,617 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7479,4 +7479,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

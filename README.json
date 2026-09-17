@@ -118,7 +118,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -407,7 +407,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -1086,7 +1086,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -1737,7 +1737,7 @@
                 "open_issues": 3,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1788,7 +1788,7 @@
                 "open_issues": 0,
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)",
@@ -1827,10 +1827,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-14T17:29:21Z",
-                "open_issues": 166,
+                "open_issues": 167,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2826,
+                "stars": 2828,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -2003,7 +2003,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -2070,7 +2070,7 @@
                 "open_issues": 46,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 754,
+                "stars": 755,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:36:26.018Z",
+    "last_updated": "2026-09-17T19:46:11.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

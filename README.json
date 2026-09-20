@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -453,7 +453,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1360,7 +1360,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1716,7 +1716,7 @@
                 "open_issues": 1,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1830,7 +1830,7 @@
                 "open_issues": 3,
                 "owner": "WilliamTheMaker",
                 "repo": "BuildMyOwnBlackBox_for_Snapmaker_U1",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "title": "Black Box Dual PWM Fan Mod",
@@ -1847,11 +1847,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:45:18Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-20T13:57:15Z",
+                "open_issues": 171,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2832,
+                "stars": 2836,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1919,7 +1919,7 @@
                 "open_issues": 2,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 169,
+                "stars": 171,
                 "topics": []
               },
               "title": "multiACE",
@@ -1982,7 +1982,7 @@
                 "open_issues": 13,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 84,
+                "stars": 86,
                 "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
@@ -2003,7 +2003,7 @@
                 "open_issues": 4,
                 "owner": "josuanbn",
                 "repo": "bl2u1",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
@@ -2091,7 +2091,7 @@
                 "open_issues": 46,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 758,
+                "stars": 759,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -2112,7 +2112,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:39:04.293Z",
+    "last_updated": "2026-09-20T18:53:36.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

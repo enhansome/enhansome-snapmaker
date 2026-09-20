@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2026-09-13
+#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2026-09-13
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
 >
@@ -6094,7 +6094,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 #### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 27 | 🐛 3 | 🌐 C++ | 📅 2026-09-19
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 246 | 🐛 143 | 🌐 C++ | 📅 2026-09-18 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 246 | 🐛 147 | 🌐 C++ | 📅 2026-09-20 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6138,7 +6138,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Black Box Dual PWM Fan Mod](https://github.com/WilliamTheMaker/BuildMyOwnBlackBox_for_Snapmaker_U1) ⭐ 11 | 🐛 3 | 📅 2026-08-13
+#### [Black Box Dual PWM Fan Mod](https://github.com/WilliamTheMaker/BuildMyOwnBlackBox_for_Snapmaker_U1) ⭐ 12 | 🐛 3 | 📅 2026-08-13
 
 > A custom Snapmaker U1 project to build my own external Black Box for dual PWM fan control, based on reverse-engineering the U1 purifier firmware path.
 >
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,832 | 🐛 170 | 🌐 Python | 📅 2026-09-19
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,836 | 🐛 171 | 🌐 Python | 📅 2026-09-20
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6267,7 +6267,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 #### [FullSpectrum Speed Palettes](https://www.printables.com/model/1654016-fullspectrum-speed-palettes)
 
-> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 758 | 🐛 46 | 🌐 C++ | 📅 2026-09-09. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
+> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 759 | 🐛 46 | 🌐 C++ | 📅 2026-09-09. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
 >
 > The pu...
 
@@ -6277,10 +6277,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 169 | 🐛 2 | 🌐 Python | 📅 2026-09-08
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 171 | 🐛 2 | 🌐 Python | 📅 2026-09-08
 
 > What is multiACE?
-> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 84 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
+> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 86 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
 >
 > Typical Workflow
 > Single Material (e.g. PLA on ACE 0)
@@ -6442,7 +6442,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 84 | 🐛 13 | 🌐 Python | 📅 2026-03-11
+#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 86 | 🐛 13 | 🌐 Python | 📅 2026-03-11
 
 > This project provides integration of the Anycubic ACE PRO with the Snapmaker U1 printer as a filament storage. Using [PAXX12 custom firmware](https://awesome-sm-list.xyz/#paxx12-firmware-for-snapmaerk-u1-7).
 
@@ -6452,7 +6452,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 67 | 🐛 4 | 🌐 HTML | 📅 2026-04-07
+#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 68 | 🐛 4 | 🌐 HTML | 📅 2026-04-07
 
 > Free web tool that converts Bambu Lab .3mf projects to Snapmaker U1 format, preserving your multi-color painting work. You can selfhost it locally!
 > **Features**
@@ -6696,7 +6696,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 758 | 🐛 46 | 🌐 C++ | 📅 2026-09-09
+#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 759 | 🐛 46 | 🌐 C++ | 📅 2026-09-09
 
 > <img src="images/Cards_Files/id-full-spectrum-layer-blending-with-orcaslicer-fork-12/1.jpg" alt="Mug" class="float-right" />
 > Full Spectrum is an open source slicer for FDM printers based on 
@@ -6889,7 +6889,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,618 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

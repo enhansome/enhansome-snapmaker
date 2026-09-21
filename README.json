@@ -1712,11 +1712,11 @@
                 "id": 1351671537,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T19:16:59Z",
+                "last_commit": "2026-09-20T22:00:41Z",
                 "open_issues": 1,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 36,
+                "stars": 38,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1847,11 +1847,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T13:57:15Z",
+                "last_commit": "2026-09-21T18:04:24Z",
                 "open_issues": 171,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2836,
+                "stars": 2839,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1919,7 +1919,7 @@
                 "open_issues": 2,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "title": "multiACE",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:53:36.230Z",
+    "last_updated": "2026-09-21T20:28:27.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

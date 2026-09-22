@@ -1713,10 +1713,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-20T22:00:41Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1848,10 +1848,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-21T18:04:24Z",
-                "open_issues": 171,
+                "open_issues": 174,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2839,
+                "stars": 2843,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1916,7 +1916,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-08T04:53:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 172,
@@ -2003,7 +2003,7 @@
                 "open_issues": 4,
                 "owner": "josuanbn",
                 "repo": "bl2u1",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
@@ -2091,7 +2091,7 @@
                 "open_issues": 46,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 759,
+                "stars": 760,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:28:27.859Z",
+    "last_updated": "2026-09-22T19:47:07.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

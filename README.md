@@ -4,7 +4,7 @@
 
 A curated list of awesome Snapmaker resources, mods, and guides.
 
-Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/graphs/contributors) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18.
+Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/graphs/contributors) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18.
 
 ***
 
@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,620 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -1149,7 +1149,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Laser 40w Fan](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/Laser_40W/40w_Laser_Fan.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Laser 40w Fan](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/Laser_40W/40w_Laser_Fan.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Detailed disassembly and analisys of internal componetns by @Geared - Standard 6025 fan, 24v DC, 0.34A.
 
@@ -1372,7 +1372,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Guide: Luban - how to use layers](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/Luban_Layer_Tutorial_by_David_Key.pdf) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Guide: Luban - how to use layers](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/Luban_Layer_Tutorial_by_David_Key.pdf) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > How to use layers - good tutorial on how to use multi-process functionality of Luban.
 
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,620 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -2908,7 +2908,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Laser 40w Fan](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/Laser_40W/40w_Laser_Fan.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Laser 40w Fan](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/Laser_40W/40w_Laser_Fan.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Detailed disassembly and analisys of internal componetns by @Geared - Standard 6025 fan, 24v DC, 0.34A.
 
@@ -3091,7 +3091,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Guide: Luban - how to use layers](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/Luban_Layer_Tutorial_by_David_Key.pdf) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Guide: Luban - how to use layers](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/Luban_Layer_Tutorial_by_David_Key.pdf) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > How to use layers - good tutorial on how to use multi-process functionality of Luban.
 
@@ -3434,7 +3434,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 stock pictures](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 stock pictures](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Hosted here collection of stock parts and internals of Snapmaker 2.0. You can find there measurements for hot end electrical components and other such things.
 
@@ -3444,7 +3444,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 Model By Stefix](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2.5_A351_v34_v9_by_stefix.f3d) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 Model By Stefix](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2.5_A351_v34_v9_by_stefix.f3d) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Created by forum member Stefix, he called his machine A351 after all the modes installed.
 
@@ -3454,7 +3454,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 Model by Sebastien Deux Vagues](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2_a350_v32_By_Sebastien_Deux_Vagues.f3d) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 Model by Sebastien Deux Vagues](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2_a350_v32_By_Sebastien_Deux_Vagues.f3d) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Created by FB Group member Sebastien, based on model by Stefix
 
@@ -3494,7 +3494,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 platform drawing](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Snapmake_2.0_A350_new_platform_design.dwg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 platform drawing](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Snapmake_2.0_A350_new_platform_design.dwg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > DWG file of the platform.
 
@@ -3504,7 +3504,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Model of the 200w CNC Shell](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/200WCNC_Shell.STL) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Model of the 200w CNC Shell](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/200WCNC_Shell.STL) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > STL file released by Snapmaker team to accelerate community contribution for accessories.
 
@@ -3788,9 +3788,9 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 >
 > #### Reference images
 >
-> * [LCD\_Screen](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_1_LCD_Screen.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
-> * [Plug](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_2_Plug.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
-> * [Pin\_Out](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_3_Pinout.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [LCD\_Screen](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_1_LCD_Screen.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [Plug](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_2_Plug.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [Pin\_Out](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_3_Pinout.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 **Content Author:** nweolu | **Added:** 2026-03-08
 
@@ -4377,7 +4377,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 stock pictures](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 stock pictures](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Hosted here collection of stock parts and internals of Snapmaker 2.0. You can find there measurements for hot end electrical components and other such things.
 
@@ -4387,7 +4387,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 Model By Stefix](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2.5_A351_v34_v9_by_stefix.f3d) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 Model By Stefix](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2.5_A351_v34_v9_by_stefix.f3d) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Created by forum member Stefix, he called his machine A351 after all the modes installed.
 
@@ -4397,7 +4397,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 Model by Sebastien Deux Vagues](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2_a350_v32_By_Sebastien_Deux_Vagues.f3d) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 Model by Sebastien Deux Vagues](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2_a350_v32_By_Sebastien_Deux_Vagues.f3d) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Created by FB Group member Sebastien, based on model by Stefix
 
@@ -4437,7 +4437,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 platform drawing](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Snapmake_2.0_A350_new_platform_design.dwg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 platform drawing](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Snapmake_2.0_A350_new_platform_design.dwg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > DWG file of the platform.
 
@@ -4447,7 +4447,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Model of the Dual Extruder Shell](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Dual_Extruder_Shell_3DP.STL) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Model of the Dual Extruder Shell](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Dual_Extruder_Shell_3DP.STL) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > STL file released by Snapmaker team to accelerate community contribution for accessories.
 
@@ -4826,7 +4826,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [E-Step calibration](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/e-step_calibration.pdf) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [E-Step calibration](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/e-step_calibration.pdf) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Writeup by @Mxbrnr for e-steps calibration.
 
@@ -4877,9 +4877,9 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 >
 > #### Reference images
 >
-> * [LCD\_Screen](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_1_LCD_Screen.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
-> * [Plug](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_2_Plug.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
-> * [Pin\_Out](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_3_Pinout.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [LCD\_Screen](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_1_LCD_Screen.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [Plug](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_2_Plug.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [Pin\_Out](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_3_Pinout.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 **Content Author:** nweolu | **Added:** 2026-03-08
 
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,620 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -5008,7 +5008,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Glass bed leveling probe - FiFix Mod for SM2.0](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/FiFix_glass_probe_mod_by_stefix.zip) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Glass bed leveling probe - FiFix Mod for SM2.0](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/FiFix_glass_probe_mod_by_stefix.zip) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > FiFix Mod for SM2.0 - Clever way by @Stefix to allow leveling on glass using OEM probe. Find more information about it here. No Firmware modification required.
 
@@ -5221,7 +5221,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 stock pictures](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 stock pictures](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Hosted here collection of stock parts and internals of Snapmaker 2.0. You can find there measurements for hot end electrical components and other such things.
 
@@ -5231,7 +5231,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Laser 40w Fan](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/Laser_40W/40w_Laser_Fan.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Laser 40w Fan](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/Laser_40W/40w_Laser_Fan.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Detailed disassembly and analisys of internal componetns by @Geared - Standard 6025 fan, 24v DC, 0.34A.
 
@@ -5251,7 +5251,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 Model By Stefix](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2.5_A351_v34_v9_by_stefix.f3d) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 Model By Stefix](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2.5_A351_v34_v9_by_stefix.f3d) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Created by forum member Stefix, he called his machine A351 after all the modes installed.
 
@@ -5261,7 +5261,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 Model by Sebastien Deux Vagues](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2_a350_v32_By_Sebastien_Deux_Vagues.f3d) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 Model by Sebastien Deux Vagues](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/models/Snapmaker_2_a350_v32_By_Sebastien_Deux_Vagues.f3d) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > Created by FB Group member Sebastien, based on model by Stefix
 
@@ -5301,7 +5301,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker 2.0 A350 platform drawing](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Snapmake_2.0_A350_new_platform_design.dwg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Snapmaker 2.0 A350 platform drawing](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/files_from_snapmaker_team/Snapmake_2.0_A350_new_platform_design.dwg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > DWG file of the platform.
 
@@ -5594,7 +5594,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Guide: Luban - how to use layers](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/Luban_Layer_Tutorial_by_David_Key.pdf) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+#### [Guide: Luban - how to use layers](https://github.com/shurushetr/awesome-snapmaker/blob/main/files/pdf/Luban_Layer_Tutorial_by_David_Key.pdf) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 > How to use layers - good tutorial on how to use multi-process functionality of Luban.
 
@@ -5745,9 +5745,9 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 >
 > #### Reference images
 >
-> * [LCD\_Screen](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_1_LCD_Screen.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
-> * [Plug](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_2_Plug.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
-> * [Pin\_Out](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_3_Pinout.jpg) ⭐ 157 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [LCD\_Screen](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_1_LCD_Screen.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [Plug](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_2_Plug.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
+> * [Pin\_Out](https://github.com/shurushetr/awesome-snapmaker/blob/main/images/Snapmaker_Parts/SP_2.0/LCD_Connector/Pinout_Ref_Img_3_Pinout.jpg) ⭐ 158 | 🐛 0 | 🌐 B (Formal Method) | 📅 2026-09-18
 
 **Content Author:** nweolu | **Added:** 2026-03-08
 
@@ -6094,7 +6094,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 #### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 27 | 🐛 3 | 🌐 C++ | 📅 2026-09-19
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 247 | 🐛 148 | 🌐 C++ | 📅 2026-09-22 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 247 | 🐛 149 | 🌐 C++ | 📅 2026-09-23 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6114,7 +6114,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 129 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
+#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 134 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
 
 > Apply image to the surface of your print!
 >
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,843 | 🐛 174 | 🌐 Python | 📅 2026-09-21
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,842 | 🐛 174 | 🌐 Python | 📅 2026-09-22
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6277,7 +6277,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 172 | 🐛 3 | 🌐 Python | 📅 2026-09-08
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 173 | 🐛 3 | 🌐 Python | 📅 2026-09-08
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 86 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6452,7 +6452,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 69 | 🐛 4 | 🌐 HTML | 📅 2026-04-07
+#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 70 | 🐛 4 | 🌐 HTML | 📅 2026-04-07
 
 > Free web tool that converts Bambu Lab .3mf projects to Snapmaker U1 format, preserving your multi-color painting work. You can selfhost it locally!
 > **Features**
@@ -6889,7 +6889,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,619 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,620 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

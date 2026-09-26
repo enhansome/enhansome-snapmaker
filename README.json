@@ -76,7 +76,7 @@
                 "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
-                "stars": 61,
+                "stars": 63,
                 "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -365,7 +365,7 @@
                 "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
-                "stars": 61,
+                "stars": 63,
                 "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
@@ -453,7 +453,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -981,7 +981,7 @@
                 "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
-                "stars": 61,
+                "stars": 63,
                 "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
@@ -1360,7 +1360,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1716,7 +1716,7 @@
                 "open_issues": 2,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 41,
+                "stars": 43,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1755,10 +1755,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-24T04:03:11Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1788,7 +1788,7 @@
                 "open_issues": 0,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
-                "stars": 61,
+                "stars": 63,
                 "topics": []
               },
               "title": "snaporca-cad - Snapmaker Orca with CAD",
@@ -1847,11 +1847,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T18:29:48Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-26T14:04:04Z",
+                "open_issues": 171,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2850,
+                "stars": 2854,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -2112,7 +2112,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -2128,7 +2128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:03:44.349Z",
+    "last_updated": "2026-09-26T19:15:44.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

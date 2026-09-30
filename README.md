@@ -483,7 +483,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-29
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-30
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -657,7 +657,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 366 | 🐛 18 | 🌐 Python | 📅 2025-09-07
+#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 367 | 🐛 18 | 🌐 Python | 📅 2025-09-07
 
 > Collection of test shapes with Cura plugin to really dial in your printer. You can use STLs out of Cura too.
 
@@ -1772,7 +1772,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-29
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-30
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -1936,7 +1936,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 366 | 🐛 18 | 🌐 Python | 📅 2025-09-07
+#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 367 | 🐛 18 | 🌐 Python | 📅 2025-09-07
 
 > Collection of test shapes with Cura plugin to really dial in your printer. You can use STLs out of Cura too.
 
@@ -4073,7 +4073,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-29
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-30
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -4287,7 +4287,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 366 | 🐛 18 | 🌐 Python | 📅 2025-09-07
+#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 367 | 🐛 18 | 🌐 Python | 📅 2025-09-07
 
 > Collection of test shapes with Cura plugin to really dial in your printer. You can use STLs out of Cura too.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2026-09-28
+#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2026-09-28
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
 >
@@ -6091,10 +6091,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 30 | 🐛 4 | 🌐 C++ | 📅 2026-09-29
+#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 30 | 🐛 4 | 🌐 C++ | 📅 2026-09-30
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 251 | 🐛 160 | 🌐 C++ | 📅 2026-09-29 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 251 | 🐛 160 | 🌐 C++ | 📅 2026-09-30 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6102,7 +6102,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-29
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-09-30
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6138,7 +6138,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Black Box Dual PWM Fan Mod](https://github.com/WilliamTheMaker/BuildMyOwnBlackBox_for_Snapmaker_U1) ⭐ 12 | 🐛 3 | 📅 2026-09-25
+#### [Black Box Dual PWM Fan Mod](https://github.com/WilliamTheMaker/BuildMyOwnBlackBox_for_Snapmaker_U1) ⭐ 13 | 🐛 3 | 📅 2026-09-25
 
 > A custom Snapmaker U1 project to build my own external Black Box for dual PWM fan control, based on reverse-engineering the U1 purifier firmware path.
 >
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,865 | 🐛 168 | 🌐 Python | 📅 2026-09-29
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,867 | 🐛 169 | 🌐 Python | 📅 2026-09-30
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6176,7 +6176,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.](https://github.com/rtwfroody/ditherforge) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2026-07-30
+#### [DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.](https://github.com/rtwfroody/ditherforge) ⭐ 32 | 🐛 0 | 🌐 Go | 📅 2026-07-30
 
 > <img width="1357" height="823" alt="Image" src="https://github.com/user-attachments/assets/f0b51249-5a3a-45ae-869d-86823ea3c998" />
 
@@ -6267,7 +6267,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 #### [FullSpectrum Speed Palettes](https://www.printables.com/model/1654016-fullspectrum-speed-palettes)
 
-> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 762 | 🐛 46 | 🌐 C++ | 📅 2026-09-27. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
+> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 762 | 🐛 47 | 🌐 C++ | 📅 2026-09-27. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
 >
 > The pu...
 
@@ -6277,10 +6277,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 174 | 🐛 2 | 🌐 Python | 📅 2026-09-29
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 175 | 🐛 6 | 🌐 Python | 📅 2026-09-30
 
 > What is multiACE?
-> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 86 | 🐛 13 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
+> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 86 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
 >
 > Typical Workflow
 > Single Material (e.g. PLA on ACE 0)
@@ -6442,7 +6442,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 86 | 🐛 13 | 🌐 Python | 📅 2026-03-11
+#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 86 | 🐛 12 | 🌐 Python | 📅 2026-03-11
 
 > This project provides integration of the Anycubic ACE PRO with the Snapmaker U1 printer as a filament storage. Using [PAXX12 custom firmware](https://awesome-sm-list.xyz/#paxx12-firmware-for-snapmaerk-u1-7).
 
@@ -6452,7 +6452,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 71 | 🐛 4 | 🌐 HTML | 📅 2026-04-07
+#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 72 | 🐛 4 | 🌐 HTML | 📅 2026-04-07
 
 > Free web tool that converts Bambu Lab .3mf projects to Snapmaker U1 format, preserving your multi-color painting work. You can selfhost it locally!
 > **Features**
@@ -6547,7 +6547,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 366 | 🐛 18 | 🌐 Python | 📅 2025-09-07
+#### [Calibration shapes](https://github.com/5axes/Calibration-Shapes) ⭐ 367 | 🐛 18 | 🌐 Python | 📅 2025-09-07
 
 > Collection of test shapes with Cura plugin to really dial in your printer. You can use STLs out of Cura too.
 
@@ -6696,7 +6696,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 762 | 🐛 46 | 🌐 C++ | 📅 2026-09-27
+#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 762 | 🐛 47 | 🌐 C++ | 📅 2026-09-27
 
 > <img src="images/Cards_Files/id-full-spectrum-layer-blending-with-orcaslicer-fork-12/1.jpg" alt="Mug" class="float-right" />
 > Full Spectrum is an open source slicer for FDM printers based on 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

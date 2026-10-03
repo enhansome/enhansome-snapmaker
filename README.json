@@ -72,7 +72,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T17:30:30Z",
+                "last_commit": "2026-10-03T04:39:53Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -221,30 +221,6 @@
             },
             {
               "children": [],
-              "description": "Detailed disassembly and analisys of internal componetns by @Geared - Standard 6025 fan, 24v DC, 0.34A.\nContent Author: Geared | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, DOWNLOAD, MODS, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Laser 40w Fan",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
               "description": "SnapRemote is a Node.js server that creates an interface to connect Snapmaker devices. It also serves a web client to control your device remotely. You can run this server on a Raspberry Pi within the same local network as your Snapmaker.\nContent Author: mrtayguney | Added: 2026-03-09\nTags: INTERMEDIATE, FREE, SM_2.0, ARTISAN, FDM, LASER, CNC, DOWNLOAD, MODS, UNOFFICIAL, Remote Monitoring",
               "node_type": "item",
               "repo_info": {
@@ -262,30 +238,6 @@
                 "topics": []
               },
               "title": "SnapRemote",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "How to use layers - good tutorial on how to use multi-process functionality of Luban.\nContent Author: David Key | Added: 2026-03-08\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, ARTICLE, CREATE, UNOFFICIAL, LUBAN",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Guide: Luban - how to use layers",
               "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
@@ -361,7 +313,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T17:30:30Z",
+                "last_commit": "2026-10-03T04:39:53Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -491,54 +443,6 @@
                 "topics": []
               },
               "title": "Laser Calibration Tool",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Detailed disassembly and analisys of internal componetns by @Geared - Standard 6025 fan, 24v DC, 0.34A.\nContent Author: Geared | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, DOWNLOAD, MODS, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Laser 40w Fan",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "How to use layers - good tutorial on how to use multi-process functionality of Luban.\nContent Author: David Key | Added: 2026-03-08\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, ARTICLE, CREATE, UNOFFICIAL, LUBAN",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Guide: Luban - how to use layers",
               "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
@@ -745,126 +649,6 @@
             },
             {
               "children": [],
-              "description": "Hosted here collection of stock parts and internals of Snapmaker 2.0. You can find there measurements for hot end electrical components and other such things.\nContent Author: Community | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 stock pictures",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Created by forum member Stefix, he called his machine A351 after all the modes installed.\nContent Author: Stefix | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, UNOFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 Model By Stefix",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Created by FB Group member Sebastien, based on model by Stefix\nContent Author: Sebastien | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, UNOFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "DWG file of the platform.\nContent Author: Snapmaker | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, OFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 platform drawing",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "STL file released by Snapmaker team to accelerate community contribution for accessories.\nContent Author: Snapmaker | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, CNC, DOWNLOAD, MODS, REPAIR, OFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Model of the 200w CNC Shell",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
               "description": "SnapRemote is a Node.js server that creates an interface to connect Snapmaker devices. It also serves a web client to control your device remotely. You can run this server on a Raspberry Pi within the same local network as your Snapmaker.\nContent Author: mrtayguney | Added: 2026-03-09\nTags: INTERMEDIATE, FREE, SM_2.0, ARTISAN, FDM, LASER, CNC, DOWNLOAD, MODS, UNOFFICIAL, Remote Monitoring",
               "node_type": "item",
               "repo_info": {
@@ -977,7 +761,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T17:30:30Z",
+                "last_commit": "2026-10-03T04:39:53Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -1098,126 +882,6 @@
             },
             {
               "children": [],
-              "description": "Hosted here collection of stock parts and internals of Snapmaker 2.0. You can find there measurements for hot end electrical components and other such things.\nContent Author: Community | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 stock pictures",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Created by forum member Stefix, he called his machine A351 after all the modes installed.\nContent Author: Stefix | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, UNOFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 Model By Stefix",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Created by FB Group member Sebastien, based on model by Stefix\nContent Author: Sebastien | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, UNOFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "DWG file of the platform.\nContent Author: Snapmaker | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, OFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 platform drawing",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "STL file released by Snapmaker team to accelerate community contribution for accessories.\nContent Author: Snapmaker | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, DOWNLOAD, MODS, REPAIR, OFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Model of the Dual Extruder Shell",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
               "description": "This is a simple browser-based editor which creates printable 3D terrain models (.stl) from just latitude and longitude input.\nContent Author: ModelRift | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, U1, J1/J1s, FDM, CREATE, ONLINE TOOL, UNOFFICIAL, Generator",
               "node_type": "item",
               "repo_info": {
@@ -1281,30 +945,6 @@
             },
             {
               "children": [],
-              "description": "Writeup by @Mxbrnr for e-steps calibration.\nContent Author: Mxbrnr | Added: 2026-03-08\nTags: BEGINNER, FREE, SM_2.0, FDM, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "E-Step calibration",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
               "description": "Toolkit to assemble snapmaker firmware, created by\nContent Author: zauguin | Added: 2026-03-08\nTags: INTERMEDIATE, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, FIRMWARE, MODS, UNOFFICIAL",
               "node_type": "item",
               "repo_info": {
@@ -1364,30 +1004,6 @@
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "FiFix Mod for SM2.0 - Clever way by @Stefix to allow leveling on glass using OEM probe. Find more information about it here. No Firmware modification required.\nContent Author: Stefix | Added: 2026-03-08\nTags: INTERMEDIATE, FREE, SM_2.0, FDM, MODS, UNOFFICIAL, Bed Leveling",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Glass bed leveling probe - FiFix Mod for SM2.0",
               "first_seen": "2026-08-29T00:35:33.110Z"
             }
           ],
@@ -1483,126 +1099,6 @@
             },
             {
               "children": [],
-              "description": "Hosted here collection of stock parts and internals of Snapmaker 2.0. You can find there measurements for hot end electrical components and other such things.\nContent Author: Community | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 stock pictures",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Detailed disassembly and analisys of internal componetns by @Geared - Standard 6025 fan, 24v DC, 0.34A.\nContent Author: Geared | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, DOWNLOAD, MODS, REPAIR, UNOFFICIAL",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Laser 40w Fan",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Created by forum member Stefix, he called his machine A351 after all the modes installed.\nContent Author: Stefix | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, UNOFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 Model By Stefix",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "Created by FB Group member Sebastien, based on model by Stefix\nContent Author: Sebastien | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, UNOFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 Model by Sebastien Deux Vagues",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "DWG file of the platform.\nContent Author: Snapmaker | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, FDM, LASER, CNC, DOWNLOAD, MODS, REPAIR, OFFICIAL, Files",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Snapmaker 2.0 A350 platform drawing",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
               "description": "SnapRemote is a Node.js server that creates an interface to connect Snapmaker devices. It also serves a web client to control your device remotely. You can run this server on a Raspberry Pi within the same local network as your Snapmaker.\nContent Author: mrtayguney | Added: 2026-03-09\nTags: INTERMEDIATE, FREE, SM_2.0, ARTISAN, FDM, LASER, CNC, DOWNLOAD, MODS, UNOFFICIAL, Remote Monitoring",
               "node_type": "item",
               "repo_info": {
@@ -1620,30 +1116,6 @@
                 "topics": []
               },
               "title": "SnapRemote",
-              "first_seen": "2026-08-29T00:35:33.110Z"
-            },
-            {
-              "children": [],
-              "description": "How to use layers - good tutorial on how to use multi-process functionality of Luban.\nContent Author: David Key | Added: 2026-03-08\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, ARTICLE, CREATE, UNOFFICIAL, LUBAN",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
-                "homepage": null,
-                "id": 639871839,
-                "language": "B (Formal Method)",
-                "license": null,
-                "last_commit": "2026-09-18T17:21:10Z",
-                "open_issues": 2,
-                "owner": "shurushetr",
-                "repo": "awesome-snapmaker",
-                "stars": 158,
-                "topics": [
-                  "awesome",
-                  "awesome-list"
-                ]
-              },
-              "title": "Guide: Luban - how to use layers",
               "first_seen": "2026-08-29T00:35:33.110Z"
             },
             {
@@ -1784,7 +1256,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-01T17:30:30Z",
+                "last_commit": "2026-10-03T04:39:53Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -1847,7 +1319,7 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T09:39:09Z",
+                "last_commit": "2026-10-02T20:51:30Z",
                 "open_issues": 207,
                 "owner": "Donkie",
                 "repo": "Spoolman",
@@ -2128,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:49:20.751Z",
+    "last_updated": "2026-10-03T05:09:58.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

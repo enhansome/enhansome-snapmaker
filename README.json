@@ -1323,7 +1323,7 @@
                 "open_issues": 211,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2883,
+                "stars": 2884,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1388,7 +1388,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T11:41:55Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 176,
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:33.568Z",
+    "last_updated": "2026-10-06T21:03:44.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

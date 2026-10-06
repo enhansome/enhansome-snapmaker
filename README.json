@@ -1323,7 +1323,7 @@
                 "open_issues": 211,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2882,
+                "stars": 2883,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:46:12.734Z",
+    "last_updated": "2026-10-06T10:40:33.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

@@ -1184,11 +1184,11 @@
                 "id": 1351671537,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T19:32:19Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-07T10:29:26Z",
+                "open_issues": 4,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1281,7 +1281,7 @@
                 "open_issues": 0,
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)",
@@ -1323,7 +1323,7 @@
                 "open_issues": 211,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2884,
+                "stars": 2888,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1388,7 +1388,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T11:41:55Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 176,
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:03:44.154Z",
+    "last_updated": "2026-10-07T21:23:02.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

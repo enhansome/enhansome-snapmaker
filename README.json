@@ -1188,7 +1188,7 @@
                 "open_issues": 4,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1230,7 +1230,7 @@
                 "open_issues": 5,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1319,11 +1319,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T16:38:47Z",
-                "open_issues": 211,
+                "last_commit": "2026-10-08T16:51:29Z",
+                "open_issues": 176,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2888,
+                "stars": 2890,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1391,7 +1391,7 @@
                 "open_issues": 4,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 176,
+                "stars": 178,
                 "topics": []
               },
               "title": "multiACE",
@@ -1563,7 +1563,7 @@
                 "open_issues": 48,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 761,
+                "stars": 763,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:23:02.527Z",
+    "last_updated": "2026-10-08T21:23:50.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

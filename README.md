@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2026-10-07
+#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2026-10-07
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
 >
@@ -6091,10 +6091,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 30 | 🐛 5 | 🌐 C++ | 📅 2026-09-30
+#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 31 | 🐛 5 | 🌐 C++ | 📅 2026-09-30
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 252 | 🐛 172 | 🌐 C++ | 📅 2026-10-07 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 253 | 🐛 179 | 🌐 C++ | 📅 2026-10-08 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,888 | 🐛 211 | 🌐 Python | 📅 2026-10-04
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,890 | 🐛 176 | 🌐 Python | 📅 2026-10-08
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6267,7 +6267,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 #### [FullSpectrum Speed Palettes](https://www.printables.com/model/1654016-fullspectrum-speed-palettes)
 
-> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 761 | 🐛 48 | 🌐 C++ | 📅 2026-09-27. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
+> A reduced-palette design based on the experience of [jusdisgi on Maker World](https://makerworld.com/en/@jusdisgi) and me which we consider optimized for quick-testing the blending of filament colors using the [FullSpectrum fork of Snapmaker Orca slicer by ratdoux](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 763 | 🐛 48 | 🌐 C++ | 📅 2026-09-27. Early versions of which were explained and shown in detail in [Part 2 (Ch. 4.1) of our deep dive](https://youtu.be/tKfpaVk8jEw?t=917) into FullSpectrum color layer stacking.
 >
 > The pu...
 
@@ -6277,7 +6277,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 176 | 🐛 4 | 🌐 Python | 📅 2026-10-03
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 178 | 🐛 4 | 🌐 Python | 📅 2026-10-03
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 87 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6696,7 +6696,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 761 | 🐛 48 | 🌐 C++ | 📅 2026-09-27
+#### [Full Spectrum layer blending with OrcaSlicer Fork](https://github.com/ratdoux/OrcaSlicer-FullSpectrum) ⭐ 763 | 🐛 48 | 🌐 C++ | 📅 2026-09-27
 
 > <img src="images/Cards_Files/id-full-spectrum-layer-blending-with-orcaslicer-fork-12/1.jpg" alt="Mug" class="float-right" />
 > Full Spectrum is an open source slicer for FDM printers based on 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

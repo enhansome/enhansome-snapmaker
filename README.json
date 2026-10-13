@@ -1185,10 +1185,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T22:00:34Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 58,
+                "stars": 60,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1230,7 +1230,7 @@
                 "open_issues": 7,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 37,
+                "stars": 39,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1323,7 +1323,7 @@
                 "open_issues": 158,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2904,
+                "stars": 2906,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 36,
+                "stars": 38,
                 "topics": []
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
@@ -1388,10 +1388,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-10T11:02:40Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "title": "multiACE",
@@ -1563,7 +1563,7 @@
                 "open_issues": 48,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 763,
+                "stars": 764,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:04:43.055Z",
+    "last_updated": "2026-10-13T21:21:11.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -405,7 +405,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1000,7 +1000,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1184,8 +1184,8 @@
                 "id": 1351671537,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T22:00:34Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-14T19:32:45Z",
+                "open_issues": 7,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
                 "stars": 60,
@@ -1206,7 +1206,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T04:53:55Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ezeitoun",
                 "repo": "SnapCon",
                 "stars": 17,
@@ -1319,11 +1319,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T19:45:37Z",
-                "open_issues": 158,
+                "last_commit": "2026-10-14T17:54:31Z",
+                "open_issues": 186,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2906,
+                "stars": 2908,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1475,7 +1475,7 @@
                 "open_issues": 4,
                 "owner": "josuanbn",
                 "repo": "bl2u1",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
@@ -1584,7 +1584,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1627,
+                "stars": 1628,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:21:11.169Z",
+    "last_updated": "2026-10-14T20:15:06.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

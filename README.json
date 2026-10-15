@@ -1185,7 +1185,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-14T19:32:45Z",
-                "open_issues": 7,
+                "open_issues": 4,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
                 "stars": 60,
@@ -1281,7 +1281,7 @@
                 "open_issues": 0,
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)",
@@ -1320,10 +1320,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-14T17:54:31Z",
-                "open_issues": 186,
+                "open_issues": 177,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2908,
+                "stars": 2912,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
@@ -1388,7 +1388,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-10T11:02:40Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 184,
@@ -1560,10 +1560,10 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-27T18:47:12Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 764,
+                "stars": 765,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:15:06.652Z",
+    "last_updated": "2026-10-15T19:56:21.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

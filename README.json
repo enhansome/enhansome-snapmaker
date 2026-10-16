@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -405,7 +405,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1000,7 +1000,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1185,7 +1185,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-14T19:32:45Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
                 "stars": 60,
@@ -1226,11 +1226,11 @@
                 "id": 1252084141,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-30T19:39:59Z",
+                "last_commit": "2026-10-16T17:48:31Z",
                 "open_issues": 7,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1323,7 +1323,7 @@
                 "open_issues": 177,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2912,
+                "stars": 2916,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1387,11 +1387,11 @@
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T11:02:40Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-16T15:37:45Z",
+                "open_issues": 6,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "title": "multiACE",
@@ -1584,7 +1584,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:56:21.619Z",
+    "last_updated": "2026-10-16T19:36:04.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

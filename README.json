@@ -72,7 +72,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T18:32:27Z",
+                "last_commit": "2026-10-19T17:51:44Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1629,
+                "stars": 1631,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -313,7 +313,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T18:32:27Z",
+                "last_commit": "2026-10-19T17:51:44Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -405,7 +405,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1629,
+                "stars": 1631,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -761,7 +761,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T18:32:27Z",
+                "last_commit": "2026-10-19T17:51:44Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -1000,7 +1000,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1629,
+                "stars": 1631,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1188,7 +1188,7 @@
                 "open_issues": 3,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1209,7 +1209,7 @@
                 "open_issues": 1,
                 "owner": "ezeitoun",
                 "repo": "SnapCon",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "title": "SnapCon - U1 Print Farm Management Solution",
@@ -1230,7 +1230,7 @@
                 "open_issues": 7,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 41,
+                "stars": 44,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1256,7 +1256,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T18:32:27Z",
+                "last_commit": "2026-10-19T17:51:44Z",
                 "open_issues": 1,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -1281,7 +1281,7 @@
                 "open_issues": 0,
                 "owner": "sentientstardust-dev",
                 "repo": "OrcaSlicer-ImageMap",
-                "stars": 141,
+                "stars": 144,
                 "topics": []
               },
               "title": "OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)",
@@ -1320,10 +1320,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-18T07:14:11Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2921,
+                "stars": 2922,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 40,
+                "stars": 43,
                 "topics": []
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
@@ -1387,11 +1387,11 @@
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T08:32:00Z",
+                "last_commit": "2026-10-19T20:11:53Z",
                 "open_issues": 8,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 186,
+                "stars": 189,
                 "topics": []
               },
               "title": "multiACE",
@@ -1472,10 +1472,10 @@
                 "language": "HTML",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-07T20:41:00Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "josuanbn",
                 "repo": "bl2u1",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
@@ -1559,7 +1559,7 @@
                 "id": 1153959601,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-17T08:29:20Z",
+                "last_commit": "2026-10-19T02:27:34Z",
                 "open_issues": 49,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
@@ -1584,7 +1584,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1629,
+                "stars": 1631,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:42:38.746Z",
+    "last_updated": "2026-10-19T21:09:40.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
@@ -1612,7 +1612,7 @@
       "open_issues": 2,
       "owner": "shurushetr",
       "repo": "awesome-snapmaker",
-      "stars": 159,
+      "stars": 160,
       "topics": [
         "awesome",
         "awesome-list"

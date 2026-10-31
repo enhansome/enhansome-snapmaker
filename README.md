@@ -483,7 +483,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-30
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -776,7 +776,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 63 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
+#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
 
 > This is a simple browser-based editor which creates printable 3D terrain models (.stl) from just latitude and longitude input.
 
@@ -1772,7 +1772,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-30
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -2055,7 +2055,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 63 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
+#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
 
 > This is a simple browser-based editor which creates printable 3D terrain models (.stl) from just latitude and longitude input.
 
@@ -4073,7 +4073,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-30
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -4566,7 +4566,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 63 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
+#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
 
 > This is a simple browser-based editor which creates printable 3D terrain models (.stl) from just latitude and longitude input.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-10-20
+#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2026-10-20
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
 >
@@ -6094,7 +6094,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 #### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 49 | 🐛 7 | 🌐 C++ | 📅 2026-10-16
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 272 | 🐛 219 | 🌐 C++ | 📅 2026-10-30 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 272 | 🐛 219 | 🌐 C++ | 📅 2026-10-31 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6102,7 +6102,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-30
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,963 | 🐛 185 | 🌐 Python | 📅 2026-10-30
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,966 | 🐛 180 | 🌐 Python | 📅 2026-10-31
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6277,7 +6277,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 199 | 🐛 5 | 🌐 Python | 📅 2026-10-30
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 201 | 🐛 7 | 🌐 Python | 📅 2026-10-31
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 89 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6452,7 +6452,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 80 | 🐛 6 | 🌐 HTML | 📅 2026-04-07
+#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 81 | 🐛 6 | 🌐 HTML | 📅 2026-04-07
 
 > Free web tool that converts Bambu Lab .3mf projects to Snapmaker U1 format, preserving your multi-color painting work. You can selfhost it locally!
 > **Features**
@@ -6676,7 +6676,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 63 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
+#### [Terrain To STL](https://github.com/ModelRift/terrain-to-3d/) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-28
 
 > This is a simple browser-based editor which creates printable 3D terrain models (.stl) from just latitude and longitude input.
 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

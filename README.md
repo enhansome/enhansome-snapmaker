@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,632 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,632 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,632 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2026-10-20
+#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2026-10-20
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
 >
@@ -6091,10 +6091,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 50 | 🐛 7 | 🌐 C++ | 📅 2026-10-16
+#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 51 | 🐛 7 | 🌐 C++ | 📅 2026-10-16
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 272 | 🐛 220 | 🌐 C++ | 📅 2026-11-01 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 274 | 🐛 221 | 🌐 C++ | 📅 2026-11-02 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6138,7 +6138,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Black Box Dual PWM Fan Mod](https://github.com/WilliamTheMaker/BuildMyOwnBlackBox_for_Snapmaker_U1) ⭐ 15 | 🐛 3 | 📅 2026-09-25
+#### [Black Box Dual PWM Fan Mod](https://github.com/WilliamTheMaker/BuildMyOwnBlackBox_for_Snapmaker_U1) ⭐ 16 | 🐛 3 | 📅 2026-09-25
 
 > A custom Snapmaker U1 project to build my own external Black Box for dual PWM fan control, based on reverse-engineering the U1 purifier firmware path.
 >
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,972 | 🐛 180 | 🌐 Python | 📅 2026-10-31
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,977 | 🐛 180 | 🌐 Python | 📅 2026-11-02
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6255,7 +6255,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker U1 Card for Home Assitant](https://github.com/rickkollins/Snapmaker-U1-Card) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-07
+#### [Snapmaker U1 Card for Home Assitant](https://github.com/rickkollins/Snapmaker-U1-Card) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-07
 
 > A Prism Dashboard-style Home Assistant Lovelace card for the Snapmaker U1 3D printer, pulling live data from the [Moonraker](https://moonraker.readthedocs.io/) REST API (Klipper / AFC Lite v2.x firmware). THIS CARD REQUIRES THAT EXTENDED FIRMWARE BE INSTALLED, AND AFC LITE BE ENABLED!
 
@@ -6277,7 +6277,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 204 | 🐛 7 | 🌐 Python | 📅 2026-11-01
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 206 | 🐛 9 | 🌐 Python | 📅 2026-11-02
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 89 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6420,7 +6420,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker U1 - Research Documentation](https://github.com/Snapmaker-U1-Extended-Firmware/Snapmaker-U1-Research) ⭐ 9 | 🐛 1 | 📅 2025-12-05
+#### [Snapmaker U1 - Research Documentation](https://github.com/Snapmaker-U1-Extended-Firmware/Snapmaker-U1-Research) ⭐ 10 | 🐛 1 | 📅 2025-12-05
 
 > This repository contains reverse engineering research and technical documentation for the Snapmaker U1 3D printer. The documentation is derived from analyzing the printer's firmware, configuration files, and Klipper source code.
 >
@@ -6889,7 +6889,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,632 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

@@ -483,7 +483,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-01
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-03
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -761,7 +761,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 > | Supported <br/> printers                                   | Slicer                   | Support for Dual extruder (DE) <br> Single extruder (SE) | Author                                                  | Profiles download link                                                                              | Link to publication post                                                                          | Notes                                                                                                                                                                                                     |
 > | ---------------------------------------------------------- | ------------------------ | :------------------------------------------------------: | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 95 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
+> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 96 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350 <br> Snapmaker 2.0 A250                 | PrusaSlicer              |                            SE                            | [@mrworf](https://forum.snapmaker.com/u/MrWorf)         | [GitHub](https://github.com/mrworf/snapmaker-prusa) ⭐ 27 \| 🐛 3 \| 📅 2021-07-11                   | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350                                         | PrusaSlicer              |                            SE                            | [Snapmaker Team](https://forum.snapmaker.com/u/Edwin)   | [Google Drive](https://drive.google.com/open?id=1xfBgXZzwjKaeZ3iqscdpe2xosgFV03G0)                  | [Snapmaker Forum](https://forum.snapmaker.com/t/prusa-slicer-profile/5657/7)                      |                                                                                                                                                                                                           |
 > | Snapmaker J1/J1s                                           | PrusaSlicer              |                            N/A                           | [@leandrolima-nyc ](https://github.com/leandrolima-nyc) | [GitHub](https://github.com/leandrolima-nyc/SnapmakerJ1) ⭐ 23 \| 🐛 4 \| 🌐 G-code \| 📅 2024-03-06 | N/A                                                                                               |                                                                                                                                                                                                           |
@@ -996,7 +996,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,634 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -1772,7 +1772,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-01
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-03
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -2040,7 +2040,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 > | Supported <br/> printers                                   | Slicer                   | Support for Dual extruder (DE) <br> Single extruder (SE) | Author                                                  | Profiles download link                                                                              | Link to publication post                                                                          | Notes                                                                                                                                                                                                     |
 > | ---------------------------------------------------------- | ------------------------ | :------------------------------------------------------: | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 95 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
+> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 96 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350 <br> Snapmaker 2.0 A250                 | PrusaSlicer              |                            SE                            | [@mrworf](https://forum.snapmaker.com/u/MrWorf)         | [GitHub](https://github.com/mrworf/snapmaker-prusa) ⭐ 27 \| 🐛 3 \| 📅 2021-07-11                   | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350                                         | PrusaSlicer              |                            SE                            | [Snapmaker Team](https://forum.snapmaker.com/u/Edwin)   | [Google Drive](https://drive.google.com/open?id=1xfBgXZzwjKaeZ3iqscdpe2xosgFV03G0)                  | [Snapmaker Forum](https://forum.snapmaker.com/t/prusa-slicer-profile/5657/7)                      |                                                                                                                                                                                                           |
 > | Snapmaker J1/J1s                                           | PrusaSlicer              |                            N/A                           | [@leandrolima-nyc ](https://github.com/leandrolima-nyc) | [GitHub](https://github.com/leandrolima-nyc/SnapmakerJ1) ⭐ 23 \| 🐛 4 \| 🌐 G-code \| 📅 2024-03-06 | N/A                                                                                               |                                                                                                                                                                                                           |
@@ -2275,7 +2275,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,634 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -3303,7 +3303,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker Stiffy Kit by CTZcnc](https://github.com/christopz/snapmakerstiffy) ⭐ 19 | 🐛 0 | 📅 2024-09-25
+#### [Snapmaker Stiffy Kit by CTZcnc](https://github.com/christopz/snapmakerstiffy) ⭐ 20 | 🐛 0 | 📅 2024-09-25
 
 > Make Snapmaker rigid for heavy load cnc work - Design by
 
@@ -4073,7 +4073,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-01
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-03
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -4551,7 +4551,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 > | Supported <br/> printers                                   | Slicer                   | Support for Dual extruder (DE) <br> Single extruder (SE) | Author                                                  | Profiles download link                                                                              | Link to publication post                                                                          | Notes                                                                                                                                                                                                     |
 > | ---------------------------------------------------------- | ------------------------ | :------------------------------------------------------: | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 95 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
+> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 96 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350 <br> Snapmaker 2.0 A250                 | PrusaSlicer              |                            SE                            | [@mrworf](https://forum.snapmaker.com/u/MrWorf)         | [GitHub](https://github.com/mrworf/snapmaker-prusa) ⭐ 27 \| 🐛 3 \| 📅 2021-07-11                   | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350                                         | PrusaSlicer              |                            SE                            | [Snapmaker Team](https://forum.snapmaker.com/u/Edwin)   | [Google Drive](https://drive.google.com/open?id=1xfBgXZzwjKaeZ3iqscdpe2xosgFV03G0)                  | [Snapmaker Forum](https://forum.snapmaker.com/t/prusa-slicer-profile/5657/7)                      |                                                                                                                                                                                                           |
 > | Snapmaker J1/J1s                                           | PrusaSlicer              |                            N/A                           | [@leandrolima-nyc ](https://github.com/leandrolima-nyc) | [GitHub](https://github.com/leandrolima-nyc/SnapmakerJ1) ⭐ 23 \| 🐛 4 \| 🌐 G-code \| 📅 2024-03-06 | N/A                                                                                               |                                                                                                                                                                                                           |
@@ -4947,7 +4947,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,634 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -6065,7 +6065,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2026-10-20
+#### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 79 | 🐛 5 | 🌐 Python | 📅 2026-10-20
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
 >
@@ -6077,7 +6077,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-10
+#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 19 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-10
 
 > SnapCon is a local-first fleet management platform built primarily for Snapmaker U1 print farms.
 >
@@ -6091,10 +6091,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 51 | 🐛 7 | 🌐 C++ | 📅 2026-10-16
+#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 52 | 🐛 7 | 🌐 C++ | 📅 2026-10-16
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 274 | 🐛 221 | 🌐 C++ | 📅 2026-11-02 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 274 | 🐛 222 | 🌐 C++ | 📅 2026-11-03 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6102,7 +6102,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-01
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 63 | 🐛 1 | 🌐 C++ | 📅 2026-11-03
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6114,7 +6114,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 151 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
+#### [OrcaSlicer-ImageMap - Print an image using Overhang Modulation tech (vertical hueforge)](https://github.com/sentientstardust-dev/OrcaSlicer-ImageMap) ⭐ 152 | 🐛 0 | 🌐 C++ | 📅 2026-08-01
 
 > Apply image to the surface of your print!
 >
@@ -6152,7 +6152,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,977 | 🐛 180 | 🌐 Python | 📅 2026-11-02
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 2,981 | 🐛 183 | 🌐 Python | 📅 2026-11-03
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6277,7 +6277,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 206 | 🐛 9 | 🌐 Python | 📅 2026-11-02
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 208 | 🐛 8 | 🌐 Python | 📅 2026-11-03
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 89 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -6452,7 +6452,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 81 | 🐛 6 | 🌐 HTML | 📅 2026-04-07
+#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 82 | 🐛 6 | 🌐 HTML | 📅 2026-04-07
 
 > Free web tool that converts Bambu Lab .3mf projects to Snapmaker U1 format, preserving your multi-color painting work. You can selfhost it locally!
 > **Features**
@@ -6651,7 +6651,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 > | Supported <br/> printers                                   | Slicer                   | Support for Dual extruder (DE) <br> Single extruder (SE) | Author                                                  | Profiles download link                                                                              | Link to publication post                                                                          | Notes                                                                                                                                                                                                     |
 > | ---------------------------------------------------------- | ------------------------ | :------------------------------------------------------: | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 95 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
+> | Snapmaker 2.0 A350                                         | Ulltimaker Cura          |                            SE                            | [@Kaouthia](https://github.com/Kaouthia)                | [GitHub](https://github.com/Kaouthia/Snapmaker-2) ⭐ 96 \| 🐛 0 \| 📅 2025-03-29                     | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350 <br> Snapmaker 2.0 A250                 | PrusaSlicer              |                            SE                            | [@mrworf](https://forum.snapmaker.com/u/MrWorf)         | [GitHub](https://github.com/mrworf/snapmaker-prusa) ⭐ 27 \| 🐛 3 \| 📅 2021-07-11                   | N/A                                                                                               |                                                                                                                                                                                                           |
 > | Snapmaker 2.0 A350                                         | PrusaSlicer              |                            SE                            | [Snapmaker Team](https://forum.snapmaker.com/u/Edwin)   | [Google Drive](https://drive.google.com/open?id=1xfBgXZzwjKaeZ3iqscdpe2xosgFV03G0)                  | [Snapmaker Forum](https://forum.snapmaker.com/t/prusa-slicer-profile/5657/7)                      |                                                                                                                                                                                                           |
 > | Snapmaker J1/J1s                                           | PrusaSlicer              |                            N/A                           | [@leandrolima-nyc ](https://github.com/leandrolima-nyc) | [GitHub](https://github.com/leandrolima-nyc/SnapmakerJ1) ⭐ 23 \| 🐛 4 \| 🌐 G-code \| 📅 2024-03-06 | N/A                                                                                               |                                                                                                                                                                                                           |
@@ -6889,7 +6889,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,633 | 🐛 19 | 📅 2025-01-01
+#### [DIY Fumes Filtration system - NeverMore](https://github.com/nevermore3d/Nevermore_Micro) ⭐ 1,634 | 🐛 19 | 📅 2025-01-01
 
 > NeverMore - Opensource closedloop activated carbon filtration system. Also check out other sizes in the same repository.
 
@@ -7491,4 +7491,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

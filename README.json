@@ -1185,7 +1185,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-20T08:52:33Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
                 "stars": 79,
@@ -1319,11 +1319,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T05:51:31Z",
+                "last_commit": "2026-11-04T10:51:52Z",
                 "open_issues": 183,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 2981,
+                "stars": 2984,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1387,8 +1387,8 @@
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T17:42:46Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-04T15:38:36Z",
+                "open_issues": 9,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 208,
@@ -1454,7 +1454,7 @@
                 "open_issues": 12,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
@@ -1563,7 +1563,7 @@
                 "open_issues": 50,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 775,
+                "stars": 776,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:51:32.806Z",
+    "last_updated": "2026-11-04T21:58:38.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

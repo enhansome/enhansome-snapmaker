@@ -1188,7 +1188,7 @@
                 "open_issues": 4,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 81,
+                "stars": 83,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1230,7 +1230,7 @@
                 "open_issues": 8,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1319,11 +1319,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T18:38:15Z",
-                "open_issues": 188,
+                "last_commit": "2026-11-14T01:46:54Z",
+                "open_issues": 189,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3032,
+                "stars": 3034,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1451,7 +1451,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-11T12:28:07Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
                 "stars": 91,
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:01:50.675Z",
+    "last_updated": "2026-11-14T20:48:13.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
@@ -1609,7 +1609,7 @@
       "language": "B (Formal Method)",
       "license": null,
       "last_commit": "2026-09-18T17:21:10Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "shurushetr",
       "repo": "awesome-snapmaker",
       "stars": 160,

@@ -185,7 +185,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -405,7 +405,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1000,7 +1000,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1188,7 +1188,7 @@
                 "open_issues": 5,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1230,7 +1230,7 @@
                 "open_issues": 8,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1320,10 +1320,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-16T15:32:46Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3049,
+                "stars": 3052,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "rtwfroody",
                 "repo": "ditherforge",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "title": "DitherForge - Convert textured 3D models into multi-color 3D-printable files for multi-filament printers.",
@@ -1391,7 +1391,7 @@
                 "open_issues": 8,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "title": "multiACE",
@@ -1563,7 +1563,7 @@
                 "open_issues": 47,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 780,
+                "stars": 779,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1584,7 +1584,7 @@
                 "open_issues": 19,
                 "owner": "nevermore3d",
                 "repo": "Nevermore_Micro",
-                "stars": 1637,
+                "stars": 1636,
                 "topics": []
               },
               "title": "DIY Fumes Filtration system - NeverMore",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:19:27.184Z",
+    "last_updated": "2026-11-17T23:34:01.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

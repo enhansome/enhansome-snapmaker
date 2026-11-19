@@ -118,7 +118,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -359,7 +359,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -870,7 +870,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -1323,7 +1323,7 @@
                 "open_issues": 191,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3058,
+                "stars": 3059,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1454,7 +1454,7 @@
                 "open_issues": 12,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 91,
+                "stars": 90,
                 "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
@@ -1496,7 +1496,7 @@
                 "open_issues": 18,
                 "owner": "5axes",
                 "repo": "Calibration-Shapes",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "cura",
                   "cura-plugin",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:58:36.116Z",
+    "last_updated": "2026-11-19T23:06:59.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

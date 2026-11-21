@@ -1188,7 +1188,7 @@
                 "open_issues": 5,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1319,11 +1319,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T21:17:48Z",
+                "last_commit": "2026-11-21T10:54:27Z",
                 "open_issues": 193,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3069,
+                "stars": 3074,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1382,16 +1382,16 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "Multi-ACE Pro integration for Snapmaker U1 -  Version 1.27b  up to 4 ACE  + ACE2 (16colors),  Web UI, Web Preflight, Ace Refill, Spool management, Parked Swaps, Tipforming. RFID read + write, Fluidd integrations as cam.   See section Reliability on:",
+                "description": "multiACE+ multi MMU integration for Snapmaker U1 -  Version 1.90  up to 4 MMU (ACE, ACE2, CFS nano) 16colors,  Web UI, Web Preflight, Quad Refill, Spool management, Parked Swaps, Tipforming. RFID read + write, Fluidd integrations as cam.   See section Reliability on:",
                 "homepage": "https://postapocalyptic-diy.com/multiace",
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T20:36:17Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-21T15:41:30Z",
+                "open_issues": 8,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "title": "multiACE",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:42:34.245Z",
+    "last_updated": "2026-11-21T21:43:01.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

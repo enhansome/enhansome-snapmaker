@@ -1227,7 +1227,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-16T17:48:31Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
                 "stars": 59,
@@ -1319,11 +1319,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-21T10:54:27Z",
-                "open_issues": 193,
+                "last_commit": "2026-11-22T10:35:25Z",
+                "open_issues": 194,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3074,
+                "stars": 3082,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1387,11 +1387,11 @@
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T15:41:30Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-22T18:07:08Z",
+                "open_issues": 11,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 221,
+                "stars": 223,
                 "topics": []
               },
               "title": "multiACE",
@@ -1542,7 +1542,7 @@
                 "open_issues": 0,
                 "owner": "ScottEKendall",
                 "repo": "HomeAssistant",
-                "stars": 9,
+                "stars": 8,
                 "topics": []
               },
               "title": "Snapmaker U1 - Home Assitant Dashboard",
@@ -1563,7 +1563,7 @@
                 "open_issues": 47,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 779,
+                "stars": 780,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:43:01.403Z",
+    "last_updated": "2026-11-22T21:54:33.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

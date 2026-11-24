@@ -7,6 +7,27 @@
           "children": [
             {
               "children": [],
+              "description": "Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)\nContent Author: Snapmaker | Added: 2026-11-23\nTags: BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1326730118,
+                "language": "G-code",
+                "license": null,
+                "last_commit": "2026-08-07T14:16:01Z",
+                "open_issues": 0,
+                "owner": "Snapmaker",
+                "repo": "Snapmaker-Artisan-Screen-App",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "Artisan Android App source code",
+              "first_seen": "2026-11-24T02:57:28.579Z"
+            },
+            {
+              "children": [],
               "description": "SnapRemote is a Node.js server that creates an interface to connect Snapmaker devices. It also serves a web client to control your device remotely. You can run this server on a Raspberry Pi within the same local network as your Snapmaker.\nContent Author: mrtayguney | Added: 2026-03-09\nTags: INTERMEDIATE, FREE, SM_2.0, ARTISAN, FDM, LASER, CNC, DOWNLOAD, MODS, UNOFFICIAL, Remote Monitoring",
               "node_type": "item",
               "repo_info": {
@@ -33,6 +54,27 @@
         },
         {
           "children": [
+            {
+              "children": [],
+              "description": "Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)\nContent Author: Snapmaker | Added: 2026-11-23\nTags: BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1326730118,
+                "language": "G-code",
+                "license": null,
+                "last_commit": "2026-08-07T14:16:01Z",
+                "open_issues": 0,
+                "owner": "Snapmaker",
+                "repo": "Snapmaker-Artisan-Screen-App",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "Artisan Android App source code",
+              "first_seen": "2026-11-24T02:57:28.579Z"
+            },
             {
               "children": [],
               "description": "A command-line tool for sending the files to Snapmaker machines via network connection. Can act as Octoprint to emulate upload for Cura/PrusaSlicer/SuperSlicer/ideaMaker. Use it with NC and CNC files on Snapmaker 2 A150/250/350, J1, Artisan.\nContent Author: macdylan | Added: 2026-03-08\nTags: INTERMEDIATE, FREE, SM_2.0, ARTISAN, J1/J1s, COMBINED, DOWNLOAD, UNOFFICIAL, Connectivity",
@@ -63,6 +105,27 @@
           "children": [
             {
               "children": [],
+              "description": "Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)\nContent Author: Snapmaker | Added: 2026-11-23\nTags: BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1326730118,
+                "language": "G-code",
+                "license": null,
+                "last_commit": "2026-08-07T14:16:01Z",
+                "open_issues": 0,
+                "owner": "Snapmaker",
+                "repo": "Snapmaker-Artisan-Screen-App",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "Artisan Android App source code",
+              "first_seen": "2026-11-24T02:57:28.579Z"
+            },
+            {
+              "children": [],
               "description": "Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.SnapOrca Design adds a full parametric, sketch-first CAD environment directly inside Snapmaker Orca. A real geometric constraint solver (SolveSpace) on an industrial OpenCASCADE B-rep kernel: 2D sketching with live constraints + draw-then-edit value entry, and the complete solid-feature timeline — extrude, revolve, sweep, loft, pattern, hole, thread, shell, draft, fillet, chamfer, boolean, plane-cut, dat...\nContent Author: tommasobbianchi | Added: 2026-07-28\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, U1, J1/J1s, FDM, DOWNLOAD, UNOFFICIAL, CAD",
               "node_type": "item",
               "repo_info": {
@@ -72,7 +135,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T22:50:50Z",
+                "last_commit": "2026-11-23T23:08:52Z",
                 "open_issues": 4,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -200,6 +263,27 @@
           "children": [
             {
               "children": [],
+              "description": "Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)\nContent Author: Snapmaker | Added: 2026-11-23\nTags: BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1326730118,
+                "language": "G-code",
+                "license": null,
+                "last_commit": "2026-08-07T14:16:01Z",
+                "open_issues": 0,
+                "owner": "Snapmaker",
+                "repo": "Snapmaker-Artisan-Screen-App",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "Artisan Android App source code",
+              "first_seen": "2026-11-24T02:57:28.579Z"
+            },
+            {
+              "children": [],
               "description": "Laser calibration pattern generator.\nContent Author: daniel-starke | Added: 2026-03-09\nTags: BEGINNER, FREE, SM_2.0, ARTISAN, RAY, LASER, ONLINE TOOL, UNOFFICIAL",
               "node_type": "item",
               "repo_info": {
@@ -265,6 +349,34 @@
           "description": null,
           "node_type": "group",
           "title": "LASER"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)\nContent Author: Snapmaker | Added: 2026-11-23\nTags: BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1326730118,
+                "language": "G-code",
+                "license": null,
+                "last_commit": "2026-08-07T14:16:01Z",
+                "open_issues": 0,
+                "owner": "Snapmaker",
+                "repo": "Snapmaker-Artisan-Screen-App",
+                "stars": 2,
+                "topics": []
+              },
+              "title": "Artisan Android App source code",
+              "first_seen": "2026-11-24T02:57:28.579Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ROTARY"
         }
       ],
       "title": "ARTISAN"
@@ -313,7 +425,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T22:50:50Z",
+                "last_commit": "2026-11-23T23:08:52Z",
                 "open_issues": 4,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -761,7 +873,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T22:50:50Z",
+                "last_commit": "2026-11-23T23:08:52Z",
                 "open_issues": 4,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -1230,7 +1342,7 @@
                 "open_issues": 9,
                 "owner": "jiyang1018",
                 "repo": "FOrcaSlicer",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "3d-printing",
                   "3d-printing-slicer",
@@ -1256,7 +1368,7 @@
                 "id": 1261190178,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T22:50:50Z",
+                "last_commit": "2026-11-23T23:08:52Z",
                 "open_issues": 4,
                 "owner": "tommasobbianchi",
                 "repo": "Orca-Cad",
@@ -1319,11 +1431,11 @@
                 "id": 622237147,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T10:35:25Z",
-                "open_issues": 194,
+                "last_commit": "2026-11-23T17:55:06Z",
+                "open_issues": 183,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3082,
+                "stars": 3085,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1391,7 +1503,7 @@
                 "open_issues": 11,
                 "owner": "decay71",
                 "repo": "multiACE",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "title": "multiACE",
@@ -1433,7 +1545,7 @@
                 "open_issues": 1,
                 "owner": "Snapmaker-U1-Extended-Firmware",
                 "repo": "Snapmaker-U1-Research",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "title": "Snapmaker U1 - Research Documentation",
@@ -1454,7 +1566,7 @@
                 "open_issues": 12,
                 "owner": "BlackFrogKok",
                 "repo": "SnapAce",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "title": "SnapACE - Anycubic ACE PRO with the Snapmaker U1",
@@ -1475,7 +1587,7 @@
                 "open_issues": 6,
                 "owner": "josuanbn",
                 "repo": "bl2u1",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "title": "Convert 3MF files from Bambu format to Snapmaker Orca format for U1",
@@ -1597,10 +1709,44 @@
         }
       ],
       "title": "U1"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Geometry definition — what converts well. stl2step works best on purely geometric shapes: parts built from planes, cylinders, arcs, fillets and other analytic surfaces — the kind of geometry a CAD kernel authored in the first place. Organic, freeform, sculpted or 3D-scanned meshes still convert and still produce a valid solid, but their curved surfaces stay faceted, because a parametric surface can only be recovered where one actually existed. The set of shapes recognised analytically is getting...\nContent Author: BlinkingSun | Added: 2026-11-23\nTags: BEGINNER, FREE, UNIVERSAL, ONLINE TOOL, UNOFFICIAL, Converter",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Universal STL (mesh) to STEP (B-Rep solid) conversion engine — C++ library + CLI, cross-platform, OpenCASCADE-based.",
+                "homepage": null,
+                "id": 1289583443,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-10T19:34:02Z",
+                "open_issues": 2,
+                "owner": "BlinkingSun",
+                "repo": "stl2step",
+                "stars": 379,
+                "topics": []
+              },
+              "title": "STL2STEP converter - Universal STL (mesh) to STEP (B-Rep solid) conversion engine.",
+              "first_seen": "2026-11-24T02:57:28.579Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        }
+      ],
+      "title": "UNIVERSAL"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:54:33.932Z",
+    "last_updated": "2026-11-24T02:57:28.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
@@ -1608,8 +1754,8 @@
       "id": 639871839,
       "language": "B (Formal Method)",
       "license": null,
-      "last_commit": "2026-09-18T17:21:10Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-23T15:36:44Z",
+      "open_issues": 0,
       "owner": "shurushetr",
       "repo": "awesome-snapmaker",
       "stars": 160,
@@ -1618,7 +1764,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "e2fae3e14aeeb1a300a60fa03bb8bbe571b9d8ce",
+    "original_repository_sha": "00231bd64c23c4ebe2c89bc881459cddc6564b84",
     "enhanced_repository": "enhansome/enhansome-snapmaker",
     "enhanced_repository_description": null,
     "title": "Awesome Snapmaker List with stars"

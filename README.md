@@ -29,6 +29,16 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### CNC
 
+#### [Artisan Android App source code](https://github.com/Snapmaker/Snapmaker-Artisan-Screen-App) ⭐ 2 | 🐛 0 | 🌐 G-code | 📅 2026-08-07
+
+> Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)
+
+**Content Author:** Snapmaker | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app
+
+***
+
 #### [TopoMiller - Transform Any Landscape Into CNC Relief Carvings](https://www.topomiller.com/)
 
 > Select any location worldwide, adjust your settings, and get a perfect STL file ready for your CNC machine. Create stunning topographic relief carvings in minutes.
@@ -320,6 +330,16 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### COMBINED
 
+#### [Artisan Android App source code](https://github.com/Snapmaker/Snapmaker-Artisan-Screen-App) ⭐ 2 | 🐛 0 | 🌐 G-code | 📅 2026-08-07
+
+> Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)
+
+**Content Author:** Snapmaker | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app
+
+***
+
 #### [TruFlatPlywood - good source for lasering plywood in US](https://truflatplywood.com/)
 
 > TruFlat Plywood (truflatplywood.com) is an online supplier specializing in pre-finished, engineered plywood specifically designed for laser cutters, CNC machines, scroll saws, and UV printers.\
@@ -483,7 +503,17 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-16
+#### [Artisan Android App source code](https://github.com/Snapmaker/Snapmaker-Artisan-Screen-App) ⭐ 2 | 🐛 0 | 🌐 G-code | 📅 2026-08-07
+
+> Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)
+
+**Content Author:** Snapmaker | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app
+
+***
+
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-23
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -1038,6 +1068,16 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### LASER
 
+#### [Artisan Android App source code](https://github.com/Snapmaker/Snapmaker-Artisan-Screen-App) ⭐ 2 | 🐛 0 | 🌐 G-code | 📅 2026-08-07
+
+> Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)
+
+**Content Author:** Snapmaker | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app
+
+***
+
 #### [TruFlatPlywood - good source for lasering plywood in US](https://truflatplywood.com/)
 
 > TruFlat Plywood (truflatplywood.com) is an online supplier specializing in pre-finished, engineered plywood specifically designed for laser cutters, CNC machines, scroll saws, and UV printers.\
@@ -1474,6 +1514,16 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### ROTARY
 
+#### [Artisan Android App source code](https://github.com/Snapmaker/Snapmaker-Artisan-Screen-App) ⭐ 2 | 🐛 0 | 🌐 G-code | 📅 2026-08-07
+
+> Snapmaker finally published the source code for Artisan screen - we can go wild all the way now :)
+
+**Content Author:** Snapmaker | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREE, ARTISAN, FDM, LASER, CNC, ROTARY, COMBINED, DOWNLOAD, FIRMWARE, UNOFFICIAL, android, source code, screen app
+
+***
+
 #### [Autodesk Fusion360](https://www.autodesk.com/products/fusion-360/personal-form)
 
 > CAD system. CNC toolpath generating. 3D Modeling.
@@ -1772,7 +1822,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-16
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-23
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -4073,7 +4123,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-16
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-23
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6065,6 +6115,16 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### FDM
 
+#### [Printer Tools — Snapmaker U1 monitoring and control app](https://printertools.app/compatibility/snapmaker-u1)
+
+> Printer Tools is a native iOS, Android, and macOS dashboard for the Snapmaker U1. It connects over the local network to original or paxx12 firmware and shows print progress, up to four toolheads, the live camera, files, and print history. It can pause, resume, or stop jobs. Developed by FixoLab; the app also supports other printer brands.
+
+**Content Author:** FixoLab | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREEMIUM, U1, FDM, DOWNLOAD, UNOFFICIAL, UNOFFICIAL, Snapmaker U1, dashboard, monitoring, camera
+
+***
+
 #### [BMCU-Klipper - Snapmaker U1](https://github.com/jarczakpawel/BMCU-Klipper) ⭐ 87 | 🐛 5 | 🌐 Python | 📅 2026-11-08
 
 > Dedicated BMCU integration for the four-head Snapmaker U1.
@@ -6091,10 +6151,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 59 | 🐛 9 | 🌐 C++ | 📅 2026-10-16
+#### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 60 | 🐛 9 | 🌐 C++ | 📅 2026-10-16
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 297 | 🐛 265 | 🌐 C++ | 📅 2026-11-22 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 298 | 🐛 266 | 🌐 C++ | 📅 2026-11-24 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6102,7 +6162,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-16
+#### [snaporca-cad - Snapmaker Orca with CAD](https://github.com/tommasobbianchi/snaporca-cad) ⭐ 65 | 🐛 4 | 🌐 C++ | 📅 2026-11-23
 
 > Design it. Slice it. Print it. All in one window — no export, no re-import, no round-trips.
 >
@@ -6152,7 +6212,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 3,082 | 🐛 194 | 🌐 Python | 📅 2026-11-22
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 3,085 | 🐛 183 | 🌐 Python | 📅 2026-11-23
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6277,10 +6337,10 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 223 | 🐛 11 | 🌐 Python | 📅 2026-11-22
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 224 | 🐛 11 | 🌐 Python | 📅 2026-11-22
 
 > What is multiACE?
-> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 90 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
+> multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 91 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
 >
 > Typical Workflow
 > Single Material (e.g. PLA on ACE 0)
@@ -6420,7 +6480,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Snapmaker U1 - Research Documentation](https://github.com/Snapmaker-U1-Extended-Firmware/Snapmaker-U1-Research) ⭐ 10 | 🐛 1 | 📅 2025-12-05
+#### [Snapmaker U1 - Research Documentation](https://github.com/Snapmaker-U1-Extended-Firmware/Snapmaker-U1-Research) ⭐ 11 | 🐛 1 | 📅 2025-12-05
 
 > This repository contains reverse engineering research and technical documentation for the Snapmaker U1 3D printer. The documentation is derived from analyzing the printer's firmware, configuration files, and Klipper source code.
 >
@@ -6442,7 +6502,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 90 | 🐛 12 | 🌐 Python | 📅 2026-03-11
+#### [SnapACE - Anycubic ACE PRO with the Snapmaker U1](https://github.com/BlackFrogKok/SnapAce) ⭐ 91 | 🐛 12 | 🌐 Python | 📅 2026-03-11
 
 > This project provides integration of the Anycubic ACE PRO with the Snapmaker U1 printer as a filament storage. Using [PAXX12 custom firmware](https://awesome-sm-list.xyz/#paxx12-firmware-for-snapmaerk-u1-7).
 
@@ -6452,7 +6512,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 82 | 🐛 6 | 🌐 HTML | 📅 2026-04-07
+#### [Convert 3MF files from Bambu format to Snapmaker Orca format for U1](https://github.com/josuanbn/bl2u1) ⭐ 83 | 🐛 6 | 🌐 HTML | 📅 2026-04-07
 
 > Free web tool that converts Bambu Lab .3mf projects to Snapmaker U1 format, preserving your multi-color painting work. You can selfhost it locally!
 > **Features**
@@ -7355,6 +7415,18 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
+### General
+
+#### [STL2STEP converter - Universal STL (mesh) to STEP (B-Rep solid) conversion engine.](https://github.com/BlinkingSun/stl2step) ⭐ 379 | 🐛 2 | 🌐 C++ | 📅 2026-11-10
+
+> Geometry definition — what converts well. stl2step works best on purely geometric shapes: parts built from planes, cylinders, arcs, fillets and other analytic surfaces — the kind of geometry a CAD kernel authored in the first place. Organic, freeform, sculpted or 3D-scanned meshes still convert and still produce a valid solid, but their curved surfaces stay faceted, because a parametric surface can only be recovered where one actually existed. The set of shapes recognised analytically is getting...
+
+**Content Author:** BlinkingSun | **Added:** 2026-11-23
+
+**Tags:** BEGINNER, FREE, UNIVERSAL, ONLINE TOOL, UNOFFICIAL, Converter
+
+***
+
 ### LASER
 
 #### [Autodesk Fusion360](https://www.autodesk.com/products/fusion-360/personal-form)
@@ -7491,4 +7563,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

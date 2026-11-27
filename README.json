@@ -1300,7 +1300,7 @@
                 "open_issues": 5,
                 "owner": "jarczakpawel",
                 "repo": "BMCU-Klipper",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "title": "BMCU-Klipper - Snapmaker U1",
@@ -1435,7 +1435,7 @@
                 "open_issues": 185,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3087,
+                "stars": 3092,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1675,7 +1675,7 @@
                 "open_issues": 47,
                 "owner": "ratdoux",
                 "repo": "OrcaSlicer-FullSpectrum",
-                "stars": 780,
+                "stars": 781,
                 "topics": []
               },
               "title": "Full Spectrum layer blending with OrcaSlicer Fork",
@@ -1746,7 +1746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:31:48.401Z",
+    "last_updated": "2026-11-27T00:40:32.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",

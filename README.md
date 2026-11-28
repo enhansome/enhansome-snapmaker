@@ -6137,7 +6137,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-10
+#### [SnapCon - U1 Print Farm Management Solution](https://github.com/ezeitoun/SnapCon) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-27
 
 > SnapCon is a local-first fleet management platform built primarily for Snapmaker U1 print farms.
 >
@@ -6154,7 +6154,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 #### [FOrcaSlicer — Flexible OrcaSlicer](https://github.com/jiyang1018/FOrcaSlicer) ⭐ 61 | 🐛 9 | 🌐 C++ | 📅 2026-10-16
 
 > FOrcaSlicer — Flexible OrcaSlicer
-> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 298 | 🐛 274 | 🌐 C++ | 📅 2026-11-26 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
+> A fork of [Snapmaker OrcaSlicer](https://github.com/Snapmaker/OrcaSlicer) ⭐ 299 | 🐛 288 | 🌐 C++ | 📅 2026-11-27 for the Snapmaker U1, built on one idea: the U1 has four independent heads, so stop making them all do the same job. Give each head its own nozzle size, line width, and speed — a fine nozzle on the visible outer wall, coarser nozzles on everything behind it — and you spend precision where it shows and speed where it doesn't. It also adds a Color Patch pipeline that prints a painted surface...
 
 **Content Author:** jiyang1018 | **Added:** 2026-08-01
 
@@ -6212,7 +6212,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 3,092 | 🐛 185 | 🌐 Python | 📅 2026-11-24
+#### [Spoolman - Keep track of your inventory of 3D-printer filament spools.](https://github.com/Donkie/Spoolman) ⭐ 3,094 | 🐛 185 | 🌐 Python | 📅 2026-11-24
 
 > Spoolman is a self-hosted web service designed to help you efficiently manage your 3D printer filament spools and monitor their usage. It acts as a centralized database that seamlessly integrates with popular 3D printing software like [OctoPrint](https://octoprint.org/) and [Klipper](https://www.klipper3d.org/)/[Moonraker](https://moonraker.readthedocs.io/en/latest/). When connected, it automatically updates spool weights as printing progresses, giving you real-time insights into filament usage.
 
@@ -6337,7 +6337,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-#### [multiACE](https://github.com/decay71/multiACE) ⭐ 229 | 🐛 10 | 🌐 Python | 📅 2026-11-25
+#### [multiACE](https://github.com/decay71/multiACE) ⭐ 229 | 🐛 13 | 🌐 Python | 📅 2026-11-27
 
 > What is multiACE?
 > multiACE extends the [SnapACE](https://github.com/BlackFrogKok/SnapACE) ⭐ 91 | 🐛 12 | 🌐 Python | 📅 2026-03-11 software to support multiple ACE Pro units on a single Snapmaker U1 printer. Switch between ACE units to use different filament sets - for example, PLA on ACE 0 and PETG on ACE 1 - without physically swapping spools.
@@ -7417,7 +7417,7 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ### General
 
-#### [STL2STEP converter - Universal STL (mesh) to STEP (B-Rep solid) conversion engine.](https://github.com/BlinkingSun/stl2step) ⭐ 379 | 🐛 2 | 🌐 C++ | 📅 2026-11-10
+#### [STL2STEP converter - Universal STL (mesh) to STEP (B-Rep solid) conversion engine.](https://github.com/BlinkingSun/stl2step) ⭐ 380 | 🐛 2 | 🌐 C++ | 📅 2026-11-10
 
 > Geometry definition — what converts well. stl2step works best on purely geometric shapes: parts built from planes, cylinders, arcs, fillets and other analytic surfaces — the kind of geometry a CAD kernel authored in the first place. Organic, freeform, sculpted or 3D-scanned meshes still convert and still produce a valid solid, but their curved surfaces stay faceted, because a parametric surface can only be recovered where one actually existed. The set of shapes recognised analytically is getting...
 
@@ -7563,4 +7563,4 @@ Maintained by [Maintainers](https://github.com/shurushetr/awesome-snapmaker/grap
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

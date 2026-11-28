@@ -1317,7 +1317,7 @@
                 "id": 1292919153,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T04:53:55Z",
+                "last_commit": "2026-11-27T23:51:59Z",
                 "open_issues": 1,
                 "owner": "ezeitoun",
                 "repo": "SnapCon",
@@ -1435,7 +1435,7 @@
                 "open_issues": 185,
                 "owner": "Donkie",
                 "repo": "Spoolman",
-                "stars": 3092,
+                "stars": 3094,
                 "topics": [
                   "3d-printing",
                   "database",
@@ -1494,13 +1494,13 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "description": "multiACE+ multi MMU integration for Snapmaker U1 -  Version 1.90  up to 4 MMU (ACE, ACE2, CFS nano) 16colors,  Web UI, Web Preflight, Quad Refill, Spool management, Parked Swaps, Tipforming. RFID read + write, Fluidd integrations as cam.   See section Reliability on:",
+                "description": "multiACE+ multi MMU integration for Snapmaker U1 -  Version 1.91  up to 4 MMU (ACE, ACE2, CFS nano) 16colors,  Web UI, Web Preflight, Quad Refill, Spool management, Parked Swaps, Tipforming. RFID read + write, Fluidd integrations as cam.   See section Reliability on:",
                 "homepage": "https://postapocalyptic-diy.com/multiace",
                 "id": 1193438419,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T19:53:14Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-27T13:28:38Z",
+                "open_issues": 13,
                 "owner": "decay71",
                 "repo": "multiACE",
                 "stars": 229,
@@ -1730,7 +1730,7 @@
                 "open_issues": 2,
                 "owner": "BlinkingSun",
                 "repo": "stl2step",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "title": "STL2STEP converter - Universal STL (mesh) to STEP (B-Rep solid) conversion engine.",
@@ -1746,7 +1746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:40:32.082Z",
+    "last_updated": "2026-11-28T00:07:11.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of things that help you make something awesome with Snapmaker machines.",
